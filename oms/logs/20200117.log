@@ -1,0 +1,35 @@
+
+--------------------begin------------------------
+
+[2020/01/17 09:28:49.775440][i][4c0a16fd8] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:49186->192.168.0.101:2181: i/o timeout
+[2020/01/17 09:28:49.775477][i][4c0a16fd8] send loop terminated: err=<nil>
+[2020/01/17 09:28:50.444547][w][4c0a16fd8] zk已断开连接:[192.168.0.101]
+[2020/01/17 09:28:52.187265][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:28:54.187646][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:28:56.188051][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:28:58.188444][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:00.188960][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:02.189477][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:04.189944][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:06.190447][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:08.190928][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:10.191240][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:12.191597][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:14.191934][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:16.192457][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/01/17 09:29:17.193117][i][4c0a16fd8] Connected to 192.168.0.101:2181
+[2020/01/17 09:29:17.219875][i][4c0a16fd8] authentication failed: zk: session has been expired by the server
+[2020/01/17 09:29:17.219955][w][4c0a16fd8] zk已断开连接:[192.168.0.101]
+[2020/01/17 09:29:18.220187][i][4c0a16fd8] Connected to 192.168.0.101:2181
+[2020/01/17 09:29:18.232643][i][4c0a16fd8] authenticated: id=103116747297990779, timeout=4000
+[2020/01/17 09:29:18.232650][i][4c0a16fd8] re-submitting `0` credentials after reconnect
+[2020/01/17 09:29:18.776943][i][325e551d4] 开始启动[API]服务...
+[2020/01/17 09:29:18.884154][e][325e551d4] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------

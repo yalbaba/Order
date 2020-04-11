@@ -1,0 +1,939 @@
+
+--------------------begin------------------------
+
+[2020/03/09 09:21:11.251795][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:12.252099][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:13.252385][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:14.252659][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:15.253054][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:16.253284][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:17.253419][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:18.253589][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:19.253768][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:21.254072][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:21:22.546466][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:21:24.546740][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:21:25.546902][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:26.547035][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:27.547184][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:29.547431][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:21:30.547728][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:31.548084][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:32.548327][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:33.548502][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:34.548663][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:35.548936][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:36.549107][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:37.549375][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:38.549709][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:39.549963][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:40.550311][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:41.550612][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:42.550881][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:43.551223][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:44.551595][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:45.551937][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:46.552210][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:47.552445][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:48.552789][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:49.552955][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:50.553422][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:51.554020][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:52.554324][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:53.554849][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:54.555124][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:55.555500][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:56.555891][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:57.556336][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:58.556873][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:21:59.557152][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:00.557327][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:01.557794][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:02.558225][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:03.558778][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:04.559096][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:05.559610][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:06.560097][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:07.560232][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:08.560725][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:09.561340][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:10.561576][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:11.561917][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:12.562226][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:13.562612][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:14.563056][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:15.563621][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:16.563897][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:17.564426][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:18.564949][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:19.565480][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:20.565955][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:21.566451][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:22.566724][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:23.567127][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:24.567606][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:25.568117][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:26.568604][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:27.569096][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:28.569619][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:29.570262][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:30.570481][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:31.570874][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:32.571238][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:33.571684][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:34.571922][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:35.572460][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:36.572785][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:37.573258][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:38.573663][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:39.574115][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:40.574440][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:41.574724][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:42.575115][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:43.575917][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:44.576401][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:45.576750][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:46.577407][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:47.577657][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:48.578219][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:49.578713][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:50.579140][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:51.579458][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:52.579755][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:53.580150][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:54.580442][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:55.581020][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:56.581288][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:57.581791][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:58.582377][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:22:59.582860][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:00.583352][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:01.583962][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:02.584249][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:03.584928][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:04.585231][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:05.585507][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:06.585817][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:07.586120][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:08.586548][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:09.586853][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:10.587395][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:11.587769][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:12.588343][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:13.588859][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:14.589427][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:15.589750][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:16.590165][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:17.590734][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:18.591197][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:19.591467][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:20.591847][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:21.592199][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:22.592536][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:23.592929][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:24.593198][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:25.593597][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:26.593958][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:27.594228][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:28.594595][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:29.595242][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:30.595522][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:31.596080][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:32.596385][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:33.597267][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:34.597595][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:35.598220][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:36.598542][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:37.598925][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:38.599423][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:39.599678][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:40.600223][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:41.600795][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:42.601096][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:43.601632][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:44.602332][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:45.602602][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:46.603030][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:47.603739][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:48.604102][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:49.604474][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:50.605005][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:51.605318][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:52.605689][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:53.606299][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:54.606630][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:55.607174][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:56.607712][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:57.608186][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:58.608704][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:23:59.609254][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:00.609812][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:01.610147][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:02.610681][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:03.611182][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:04.611722][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:05.612306][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:06.612901][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:07.613256][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:08.613614][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:09.614016][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:10.614613][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:11.614896][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:12.615412][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:13.615930][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:14.616455][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:15.616966][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:16.617403][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:17.617924][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:18.618481][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:19.618781][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:20.619311][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:21.619624][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:22.620110][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:23.620614][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:24.621143][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:25.621639][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:26.622238][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:27.622762][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:28.623286][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:29.623806][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:30.624161][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:31.624521][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:32.625047][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:33.625594][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:34.626286][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:35.626634][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:36.626960][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:37.627294][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:38.627651][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:39.628205][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:40.628736][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:41.629030][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:42.629352][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:43.629931][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:44.630272][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:45.630712][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:46.631000][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:47.631379][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:48.631668][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:49.631994][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:50.632361][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:51.632718][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:52.632829][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:53.633149][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:54.633480][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:55.633933][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:56.634280][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:57.634600][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:58.635180][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:24:59.635470][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:00.635852][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:01.636406][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:02.637023][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:03.637295][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:04.637600][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:05.637825][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:06.638307][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:07.638829][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:08.639149][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:09.639676][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:10.640227][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:11.640686][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:12.641034][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:13.641410][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:14.641718][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:15.642170][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:16.642443][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:17.642661][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:18.643033][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:19.643350][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:20.643869][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:21.644124][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:22.644494][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:23.645091][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:24.645547][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:25.645851][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:26.646457][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:27.646742][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:28.647212][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:29.647607][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:30.648013][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:31.648458][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:32.648992][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:33.649601][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:34.649996][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:35.650317][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:36.650927][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:37.651233][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:38.651546][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:39.651788][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:40.652181][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:41.652532][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:42.653115][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:43.653412][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:44.653653][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:45.654199][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:25:47.655078][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:25:49.655498][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:25:51.655928][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:25:53.656652][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:25:55.657004][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:25:57.657409][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:25:59.658010][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:01.658588][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:03.659043][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:05.659683][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:07.660326][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:09.661013][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:11.661410][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:13.661874][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:15.662316][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:17.662849][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:19.663279][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:21.663756][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:23.664444][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:25.664960][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:27.665398][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:29.665863][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:31.666316][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:33.666780][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:35.667340][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:37.667891][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:39.668559][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:41.669137][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:43.669618][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:45.670150][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:47.670617][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:49.671085][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:51.671692][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:53.672309][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:55.672786][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:57.673255][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:26:59.673768][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:01.674242][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:03.674719][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:05.675157][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:07.675652][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:09.676205][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:11.676626][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:13.677182][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:15.677765][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:17.678366][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:19.678863][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:21.679650][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:23.680035][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:25.680496][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:27.681130][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:29.681558][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:31.682031][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:33.682604][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:27:34.682890][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:35.683202][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:36.683474][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:37.683886][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:38.684120][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:39.684377][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:40.684659][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:41.685017][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:42.685392][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:43.685781][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:44.686361][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:45.686673][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:46.687004][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:47.687342][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:48.687863][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:49.688364][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:50.688925][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:51.689357][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:52.689867][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:53.690362][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:54.690831][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:55.691139][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:56.691386][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:57.691838][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:58.692100][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:27:59.692577][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:00.693084][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:01.693498][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:02.693901][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:03.694308][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:04.694757][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:05.695279][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:06.695740][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:07.696342][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:08.696691][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:09.696956][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:10.697234][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:11.697661][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:12.697973][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:13.698639][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:14.699021][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:15.699373][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:16.699917][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:17.700370][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:18.700736][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:19.701224][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:20.701827][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:21.702344][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:22.702866][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:23.703482][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:24.703792][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:25.704498][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:26.704893][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:27.705298][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:28.705628][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:29.705968][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:30.706440][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:31.706784][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:32.707167][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:33.707666][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:34.708123][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:35.708670][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:36.709025][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:37.709278][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:38.709904][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:39.710310][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:40.710667][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:41.710963][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:42.711335][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:43.711892][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:44.712561][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:45.712868][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:46.713181][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:47.713519][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:48.713986][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:49.714564][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:50.714912][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:51.715532][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:52.715796][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:53.716308][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:54.716896][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:55.717248][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:56.717488][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:57.717960][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:58.718429][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:28:59.719006][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:00.719944][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:01.720354][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:02.720730][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:03.721177][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:04.721695][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:05.721977][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:06.722519][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:07.723092][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:08.723471][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:09.723869][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:10.724425][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:11.724744][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:12.725066][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:13.725564][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:14.725909][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:15.726477][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:16.726800][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:17.727303][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:18.727550][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:19.727845][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:20.728387][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:21.728728][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:22.729221][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:23.729589][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:24.729860][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:25.730329][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:26.730671][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:27.731179][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:28.732056][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:29.732442][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:30.732922][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:31.733135][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:32.733656][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:33.734079][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:34.734534][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:35.734904][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:36.735231][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:37.735636][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:38.736013][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:39.736554][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:40.736798][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:41.737202][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:42.737736][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:43.738121][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:44.738462][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:45.739018][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:46.739375][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:47.739897][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:48.740515][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:49.741134][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:50.741678][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:51.741962][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:52.742483][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:53.742858][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:54.743182][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:55.743753][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:56.744274][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:57.744780][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:58.745302][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:29:59.745622][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:00.746114][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:01.746610][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:02.747291][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:03.747732][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:04.748118][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:05.748472][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:06.749120][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:07.749480][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:08.750118][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:09.750502][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:10.750910][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:11.751211][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:12.751548][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:13.752140][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:14.752789][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:15.753101][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:16.753563][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:17.753872][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:18.754286][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:19.754681][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:20.755104][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:21.755390][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:22.755903][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:23.756785][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:24.757173][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:25.757447][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:26.757752][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:27.758175][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:28.758515][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:29.758880][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:30.759434][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:31.759938][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:32.760482][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:33.760843][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:34.761215][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:35.761587][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:36.761925][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:37.762261][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:38.762767][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:39.763311][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:40.763657][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:41.764204][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:42.764519][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:43.765146][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:44.765433][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:45.765965][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:46.766551][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:47.766852][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:48.767382][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:49.767784][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:50.768081][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:51.768377][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:52.768866][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:53.769454][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:54.769794][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:30:56.770262][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:30:58.770765][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:00.771522][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:02.772454][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:04.772882][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:06.773356][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:08.773765][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:10.774341][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:12.775061][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:14.775605][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:16.776048][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:18.776747][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:20.777149][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:22.777694][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:24.778159][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:26.778699][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:28.779297][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:30.779840][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:32.780369][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:34.780881][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:36.781424][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:38.782144][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:40.782615][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:42.783367][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:44.784120][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:46.784802][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:48.785499][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:50.786323][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:52.786788][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:54.787398][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:56.788176][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:31:58.788599][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:00.789205][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:02.789755][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:04.790452][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:06.791342][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:08.791961][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:10.792886][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:12.793694][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:14.794367][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:16.795169][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:18.796038][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:20.796862][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:22.797594][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:24.798149][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:26.799013][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:28.799892][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:30.800811][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:32.801611][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:34.802529][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:36.803163][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:38.803773][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:40.804633][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:42.805580][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:44.806641][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:46.807103][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:48.807774][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:50.808580][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:52.809408][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:54.810283][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:56.810914][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:32:58.811599][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:00.812249][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:02.812945][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:04.813604][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:06.814378][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:08.815054][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:10.815784][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:12.816461][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:14.817101][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:16.817806][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:18.818421][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:20.818976][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:22.819462][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:24.819874][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:26.820496][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:28.820971][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:30.821689][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:32.822342][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:34.822932][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:36.823563][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:38.824057][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:40.824852][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:42.825860][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:44.826286][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:46.826740][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:48.827051][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:50.827573][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:52.828053][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:54.828526][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:56.829062][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:33:58.829552][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:00.829989][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:02.830491][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:04.830820][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:06.831352][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:08.831871][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:10.832662][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:12.833130][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:14.833688][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:16.834303][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:18.834901][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:20.835514][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:22.836198][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:24.836655][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:26.837407][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:28.837901][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:30.838450][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:32.838986][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:34.839484][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:36.840170][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:38.840785][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:40.841436][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:42.842162][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:44.842635][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:46.843174][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:47.843532][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:34:48.844043][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:34:49.844694][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:34:50.844960][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:34:52.845382][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:54.845909][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:56.846382][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:34:58.846924][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:00.847363][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:02.847875][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:04.848363][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:06.848841][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:08.849371][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:10.849895][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:12.850569][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:14.850975][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:16.851503][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:18.852120][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:20.852601][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:22.853023][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:24.853450][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:26.853909][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:28.854416][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:30.854917][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:32.855413][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:34.855851][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:36.856486][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:38.857057][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:40.857721][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:42.858218][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:43.858962][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 09:35:45.859504][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:47.860073][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:49.860973][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:51.861469][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:53.861977][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:55.862343][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:57.862829][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:35:59.863660][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:01.864215][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:03.864845][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:05.865342][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:07.865995][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:09.866479][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:11.867016][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:13.867556][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:15.868163][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:17.868683][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:19.869340][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:21.869839][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:23.870514][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:25.871012][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:27.871614][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:29.872246][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:31.872541][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:33.873032][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:35.873830][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:37.554699][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:36:39.555315][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:40.627458][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:36:42.627977][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:43.699946][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:36:45.700482][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:47.701020][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:49.701477][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:51.702006][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:52.914784][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:36:54.915295][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:55.986595][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:36:57.987071][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:36:59.58911][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:37:01.59354][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:02.130963][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:37:04.131471][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:05.203440][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:37:07.204076][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:08.274883][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:37:10.275432][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:12.275929][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:14.276847][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:16.277408][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:18.278084][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:20.278583][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:22.279181][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:24.279707][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:26.280382][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:28.280909][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:30.281639][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:32.282215][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:34.282747][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:36.283202][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:38.283706][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:40.284285][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:42.284932][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:44.285540][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:46.286018][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:48.286561][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:50.286937][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:52.287541][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:54.288054][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:56.288671][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:37:58.289312][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:00.289967][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:02.290478][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:04.290874][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:06.291367][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:08.291820][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:10.292270][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:12.292776][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:14.293302][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:16.293962][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:18.294636][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:20.295498][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:22.296010][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:24.296481][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:26.297009][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:28.297789][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:30.298376][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:32.298967][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:34.299477][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:36.299900][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:38.300574][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:40.301353][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:42.301847][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:44.302385][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:46.303089][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:48.303589][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:50.304180][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:52.305107][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:54.305702][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:56.306281][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:38:58.307048][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:00.307861][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:02.308410][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:04.308781][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:06.309318][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:08.309992][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:10.310682][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:12.311337][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:14.312025][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:16.312806][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:18.313426][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:20.314189][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:22.315024][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:24.315713][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:26.316517][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:28.317337][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:30.317999][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:32.318731][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:34.319188][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:36.319745][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:38.320528][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:40.321401][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:42.321958][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:44.322827][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:46.323376][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:48.324188][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:50.324838][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:52.325316][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:54.326010][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:56.326889][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:39:58.327460][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:00.328400][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:02.329397][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:04.329909][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:06.330640][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:08.331761][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:10.332499][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:12.332900][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:14.333405][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:16.334317][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:18.335027][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:20.335779][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:22.336462][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:24.337285][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:26.338160][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:28.338828][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:30.339519][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:32.340198][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:34.340827][i][40670e68a] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:40:35.13176][i][40670e68a] oms-api 正在退出...
+[2020/03/09 09:40:35.13186][i][40670e68a] oms-api 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/03/09 09:41:14.239922][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:41:16.240271][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:41:17.311802][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:41:19.312097][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:41:20.383972][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:41:22.384502][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:41:23.779833][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:41:25.780104][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:41:27.780487][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:41:29.780865][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:41:31.327753][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:41:33.328007][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:41:34.787743][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:41:36.787936][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:41:37.887821][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 09:41:39.888209][i][b46dfa637] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 09:41:40.888527][i][b46dfa637] Connected to 192.168.0.101:2181
+[2020/03/09 09:41:40.897951][i][b46dfa637] authenticated: id=103610669116163394, timeout=4000
+[2020/03/09 09:41:40.897961][i][b46dfa637] re-submitting `0` credentials after reconnect
+[2020/03/09 09:41:40.935963][i][b46dfa637] 初始化 /oms_t_debug/omsadmin/api/5.62
+[2020/03/09 09:41:41.616343][i][1d3862e2e] 开始启动[API]服务...
+[2020/03/09 09:41:41.616444][e][1d3862e2e] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/03/09 10:36:39.525348][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:36:41.525775][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:36:43.124314][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 10:36:45.124930][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:36:46.192263][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 10:36:48.192583][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:36:49.360199][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 10:36:51.360453][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:36:53.360689][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:36:55.361011][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:36:56.912129][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 10:36:58.912381][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:37:00.368167][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 10:37:02.368454][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:37:03.472248][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 10:37:05.472617][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 10:37:06.473111][i][68c66b8c6] Connected to 192.168.0.101:2181
+[2020/03/09 10:37:06.486568][i][68c66b8c6] authenticated: id=103610669116163413, timeout=4000
+[2020/03/09 10:37:06.486574][i][68c66b8c6] re-submitting `0` credentials after reconnect
+[2020/03/09 10:37:06.514884][i][68c66b8c6] 初始化 /oms_t_debug/omsadmin/api/5.62
+[2020/03/09 10:37:07.361289][i][24b199f6d] 开始启动[API]服务...
+[2020/03/09 10:37:07.361385][e][24b199f6d] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/03/09 13:14:39.39916][i][68c66b8c6] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:35082->192.168.0.101:2181: i/o timeout
+[2020/03/09 13:14:39.39921][i][68c66b8c6] send loop terminated: err=<nil>
+[2020/03/09 13:14:39.40066][w][68c66b8c6] zk已断开连接:[192.168.0.101]
+[2020/03/09 13:14:41.40568][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:14:43.40874][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:14:44.41157][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 13:14:45.41355][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 13:14:46.41633][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: network is unreachable
+[2020/03/09 13:14:48.42041][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:14:50.42346][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:14:52.42778][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:14:54.43198][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:14:56.43790][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:14:58.44145][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:00.44538][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:02.44912][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:04.45406][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:06.45905][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:08.46328][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:10.46825][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:12.47237][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:14.47769][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:16.48303][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/09 13:15:17.167097][i][68c66b8c6] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/09 13:15:18.167738][i][68c66b8c6] Connected to 192.168.0.101:2181
+[2020/03/09 13:15:18.169643][i][68c66b8c6] authentication failed: zk: session has been expired by the server
+[2020/03/09 13:15:18.169702][w][68c66b8c6] zk已断开连接:[192.168.0.101]
+[2020/03/09 13:15:19.170283][i][68c66b8c6] Connected to 192.168.0.101:2181
+[2020/03/09 13:15:19.184293][i][68c66b8c6] authenticated: id=103610669116163433, timeout=4000
+[2020/03/09 13:15:19.184309][i][68c66b8c6] re-submitting `0` credentials after reconnect
+[2020/03/09 13:15:20.198698][i][501cee54b] 开始启动[API]服务...
+[2020/03/09 13:15:20.198771][e][501cee54b] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------

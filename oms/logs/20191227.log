@@ -1,0 +1,59 @@
+
+--------------------begin------------------------
+
+[2019/12/27 09:27:39.47820][i][2fa5e3a18] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:51046->192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:39.47835][i][2fa5e3a18] send loop terminated: err=<nil>
+[2019/12/27 09:27:39.47942][w][2fa5e3a18] zk已断开连接:[192.168.0.101]
+[2019/12/27 09:27:41.48224][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:43.48581][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:45.48947][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:47.49256][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:49.49655][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:51.50051][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:53.50436][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:55.50896][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:57.51317][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:27:59.51702][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:28:01.52149][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:28:03.52623][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:28:05.52947][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:28:07.53322][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:28:09.53638][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:28:11.53937][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 09:28:12.54569][i][2fa5e3a18] Connected to 192.168.0.101:2181
+[2019/12/27 09:28:12.56209][i][2fa5e3a18] authentication failed: zk: session has been expired by the server
+[2019/12/27 09:28:12.56253][w][2fa5e3a18] zk已断开连接:[192.168.0.101]
+[2019/12/27 09:28:13.56966][i][2fa5e3a18] Connected to 192.168.0.101:2181
+[2019/12/27 09:28:13.71885][i][2fa5e3a18] authenticated: id=103116747297987360, timeout=4000
+[2019/12/27 09:28:13.71898][i][2fa5e3a18] re-submitting `0` credentials after reconnect
+[2019/12/27 09:28:14.65022][i][eecad5b9e] 开始启动[API]服务...
+[2019/12/27 09:28:14.65263][e][eecad5b9e] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/12/27 11:19:25.435858][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 11:19:26.824820][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/27 11:19:28.825105][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/27 11:19:30.824799][i][4c0a16fd8] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/27 11:19:32.332872][i][4c0a16fd8] Connected to 192.168.0.101:2181
+[2019/12/27 11:19:32.336439][i][4c0a16fd8] authenticated: id=103116747297987408, timeout=4000
+[2019/12/27 11:19:32.336452][i][4c0a16fd8] re-submitting `0` credentials after reconnect
+[2019/12/27 11:19:32.360422][i][4c0a16fd8] 初始化 /oms_t_debug/omsadmin/api/5.62
+[2019/12/27 11:19:32.402689][i][7e1ee60ad] 开始启动[API]服务...
+[2019/12/27 11:19:32.402889][e][7e1ee60ad] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------

@@ -1,0 +1,124 @@
+
+--------------------begin------------------------
+
+[2019/12/17 00:25:08.11835][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:10.12142][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:12.12496][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:14.12947][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:15.200798][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:25:17.201360][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:19.140535][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:25:21.141048][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:23.141323][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:25.142027][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:27.142665][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:29.143346][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:31.144069][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:33.144737][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:35.104833][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:25:37.105644][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:39.106158][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:41.106880][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:42.400831][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:25:44.401291][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:46.401988][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:48.402572][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:50.112825][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:25:52.113619][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:54.114134][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:56.114844][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:25:57.440816][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:25:59.441458][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:01.442166][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:03.442975][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:05.120970][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:26:07.121811][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:09.122646][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:11.123467][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:12.448980][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:26:14.450072][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:16.450564][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:18.451355][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:20.161003][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:26:22.161853][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:24.162686][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:26.163481][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:27.457000][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:26:29.457532][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:31.458118][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:33.458889][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:35.168950][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2019/12/17 00:26:37.169797][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:39.170628][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:41.171446][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:43.172342][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:45.173154][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:47.173993][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:49.174678][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:51.175557][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:53.176463][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:55.177169][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:57.178026][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:26:59.178830][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:01.179670][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:03.180558][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:05.181437][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:07.182291][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:09.183143][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:11.183739][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:13.184585][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:15.185437][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:17.186279][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:19.187138][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 00:27:20.198428][i][2fa5e3a18] Connected to 192.168.0.101:2181
+[2019/12/17 00:27:20.216589][i][2fa5e3a18] authenticated: id=103116747297984967, timeout=4000
+[2019/12/17 00:27:20.216602][i][2fa5e3a18] re-submitting `0` credentials after reconnect
+[2019/12/17 00:27:20.232571][i][2fa5e3a18] 初始化 /oms_t_debug/omsadmin/api/5.62
+[2019/12/17 00:27:20.295365][i][9e88000cf] 开始启动[API]服务...
+[2019/12/17 00:27:20.310927][e][9e88000cf] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/12/17 14:05:01.985827][i][2fa5e3a18] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:55956->192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:01.985855][i][2fa5e3a18] send loop terminated: err=<nil>
+[2019/12/17 14:05:03.986350][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:04.451719][w][2fa5e3a18] zk已断开连接:[192.168.0.101]
+[2019/12/17 14:05:05.986716][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:07.986964][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:09.987311][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:11.987722][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:13.988160][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:15.988610][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:17.988989][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:19.989370][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:21.989711][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:23.989899][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:25.990535][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:27.991028][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:29.991774][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:31.992379][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:33.993243][i][2fa5e3a18] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/17 14:05:34.994236][i][2fa5e3a18] Connected to 192.168.0.101:2181
+[2019/12/17 14:05:34.995845][i][2fa5e3a18] authentication failed: zk: session has been expired by the server
+[2019/12/17 14:05:34.995913][w][2fa5e3a18] zk已断开连接:[192.168.0.101]
+[2019/12/17 14:05:35.996642][i][2fa5e3a18] Connected to 192.168.0.101:2181
+[2019/12/17 14:05:36.22100][i][2fa5e3a18] authenticated: id=103116747297985083, timeout=4000
+[2019/12/17 14:05:36.22118][i][2fa5e3a18] re-submitting `0` credentials after reconnect
+[2019/12/17 14:05:37.6544][i][16b0ef8fe] 开始启动[API]服务...
+[2019/12/17 14:05:37.6885][e][16b0ef8fe] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------

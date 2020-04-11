@@ -1,0 +1,333 @@
+
+--------------------begin------------------------
+
+[2019/11/18 18:08:21.928674][i][ba00b0090] Connected to 192.168.0.101:2181
+[2019/11/18 18:08:21.942508][i][ba00b0090] authenticated: id=103116747297981751, timeout=4000
+[2019/11/18 18:08:21.942522][i][ba00b0090] re-submitting `0` credentials after reconnect
+[2019/11/18 18:08:21.977651][i][ba00b0090] 初始化 /oms_debug/apiserver/api/4.172
+[2019/11/18 18:08:21.996732][i][a3819ad72] 开始启动[API]服务...
+[2019/11/18 18:08:22.845207][i][a3819ad72] [启用 静态文件]
+[2019/11/18 18:08:22.845227][d][a3819ad72] [未启用 header设置]
+[2019/11/18 18:08:22.845235][d][a3819ad72] [未启用 响应格式设置]
+[2019/11/18 18:08:22.845243][d][a3819ad72] [未启用 熔断设置]
+[2019/11/18 18:08:22.845319][d][a3819ad72] [未启用 jwt设置]
+[2019/11/18 18:08:22.845359][d][a3819ad72] [未启用 固定密钥认证]
+[2019/11/18 18:08:22.845535][i][a3819ad72] [启用 远程服务认证]
+[2019/11/18 18:08:22.845542][d][a3819ad72] [未启用 ajax请求限制设置]
+[2019/11/18 18:08:22.845553][d][a3819ad72] [未启用 metric设置]
+[2019/11/18 18:08:22.845560][d][a3819ad72] [未启用 host设置]
+[2019/11/18 18:08:23.369404][i][a3819ad72] 服务启动成功(API,http://192.168.4.172:8600,7)
+
+--------------------begin------------------------
+
+[2019/11/18 18:10:55.716697][i][87672277f] Connected to 192.168.0.101:2181
+[2019/11/18 18:10:55.727824][i][87672277f] authenticated: id=103116747297981756, timeout=4000
+[2019/11/18 18:10:55.727847][i][87672277f] re-submitting `0` credentials after reconnect
+[2019/11/18 18:10:55.765801][i][87672277f] 初始化 /oms_debug/flowserver/mqc-cron-rpc/4.172
+[2019/11/18 18:10:55.789116][i][884f09341] 开始启动[MQC]服务...
+[2019/11/18 18:10:55.872389][d][884f09341] [订阅 队列(oms1:order:pay)消息]
+[2019/11/18 18:10:55.872423][d][884f09341] [订阅 队列(oms1:order:bind)消息]
+[2019/11/18 18:10:55.872436][d][884f09341] [订阅 队列(oms1:order:delivery)消息]
+[2019/11/18 18:10:55.872444][d][884f09341] [订阅 队列(oms1:order:delivery_finish)消息]
+[2019/11/18 18:10:55.872453][d][884f09341] [订阅 队列(oms1:order:up_pay)消息]
+[2019/11/18 18:10:55.872461][d][884f09341] [订阅 队列(oms1:order:notify)消息]
+[2019/11/18 18:10:55.872469][d][884f09341] [订阅 队列(oms1:order:overtime)消息]
+[2019/11/18 18:10:55.872477][d][884f09341] [订阅 队列(oms1:order:delivery_unknown)消息]
+[2019/11/18 18:10:55.872485][d][884f09341] [订阅 队列(oms1:refund:return)消息]
+[2019/11/18 18:10:55.872495][d][884f09341] [订阅 队列(oms1:refund:return_complete)消息]
+[2019/11/18 18:10:55.872503][d][884f09341] [订阅 队列(oms1:refund:pay)消息]
+[2019/11/18 18:10:55.872511][d][884f09341] [订阅 队列(oms1:refund:up_pay)消息]
+[2019/11/18 18:10:55.872519][d][884f09341] [订阅 队列(oms1:refund:order_fail)消息]
+[2019/11/18 18:10:55.872527][d][884f09341] [订阅 队列(oms1:refund:notify)消息]
+[2019/11/18 18:10:55.872537][d][884f09341] [订阅 队列(oms1:refund:overtime)消息]
+[2019/11/18 18:10:55.872544][d][884f09341] [订阅 队列(oms1:refund:return_unknown)消息]
+[2019/11/18 18:10:55.872722][d][884f09341] [未启用 metric设置]
+[2019/11/18 18:10:55.873044][d][884f09341] [订阅(oms1:vds:coop:notify:send)消息]
+[2019/11/18 18:10:56.390777][i][884f09341] master mqc server
+[2019/11/18 18:10:56.392379][i][884f09341] 服务启动成功(MQC,mqc://192.168.4.172,17)
+[2019/11/18 18:10:56.406971][i][3d21d8965] 开始启动[CRON]服务...
+[2019/11/18 18:10:56.490079][d][3d21d8965] [未启用 metric设置]
+[2019/11/18 18:10:56.490089][d][884f09341] [订阅(oms1:vds:coop:notify:send)消息]
+[2019/11/18 18:10:56.490279][d][3d21d8965] [注册定时任务(@every 10s)(/task/scan)]
+[2019/11/18 18:10:56.490326][d][3d21d8965] [注册定时任务(@hourly)(/task/clear)]
+[2019/11/18 18:10:56.490357][d][3d21d8965] [注册定时任务(@every 10s)(/task/scan)]
+[2019/11/18 18:10:56.490387][d][3d21d8965] [注册定时任务(@hourly)(/task/clear)]
+[2019/11/18 18:10:56.490416][d][3d21d8965] [注册定时任务(@every 10s)(/task/scan)]
+[2019/11/18 18:10:56.490444][d][3d21d8965] [注册定时任务(@hourly)(/task/clear)]
+[2019/11/18 18:10:56.490470][d][3d21d8965] [注册定时任务(@every 10s)(/task/scan)]
+[2019/11/18 18:10:56.490503][d][3d21d8965] [注册定时任务(@hourly)(/task/clear)]
+[2019/11/18 18:10:57.6506][i][3d21d8965] master cron server
+[2019/11/18 18:10:57.7754][i][3d21d8965] 服务启动成功(CRON,cron://192.168.4.172,18)
+[2019/11/18 18:10:57.20447][i][8fbd62cbd] 开始启动[RPC]服务...
+[2019/11/18 18:10:57.93578][d][3d21d8965] [注册定时任务(@every 10s)(/task/scan)]
+[2019/11/18 18:10:57.93584][d][884f09341] [订阅(oms1:vds:coop:notify:send)消息]
+[2019/11/18 18:10:57.93609][d][3d21d8965] [注册定时任务(@hourly)(/task/clear)]
+[2019/11/18 18:10:57.93631][d][3d21d8965] [注册定时任务(@every 10s)(/task/scan)]
+[2019/11/18 18:10:57.93654][d][3d21d8965] [注册定时任务(@hourly)(/task/clear)]
+[2019/11/18 18:10:57.94349][d][8fbd62cbd] [未启用 jwt设置]
+[2019/11/18 18:10:57.94356][d][8fbd62cbd] [未启用 固定密钥认证]
+[2019/11/18 18:10:57.94358][d][8fbd62cbd] [未启用 远程服务认证]
+[2019/11/18 18:10:57.94360][d][8fbd62cbd] [未启用 header设置]
+[2019/11/18 18:10:57.94363][d][8fbd62cbd] [未启用 metric设置]
+[2019/11/18 18:10:57.94364][d][8fbd62cbd] [未启用 host设置]
+[2019/11/18 18:10:57.696181][i][8fbd62cbd] 服务启动成功(RPC,tcp://192.168.4.172:8081,6)
+[2019/11/18 18:11:06.491908][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:06.491979][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:06.492081][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:06.492133][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:06.492387][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:06.492406][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:06.493388][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:06.493597][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:06.493780][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:06.494033][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:06.495212][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:06.496781][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:06.533420][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:11:06.533556][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  41.41696ms 
+[2019/11/18 18:11:06.567503][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:11:06.567565][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  73.789451ms 
+[2019/11/18 18:11:06.572546][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:11:06.572622][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  79.26214ms 
+[2019/11/18 18:11:06.573093][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:11:06.573135][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  81.184346ms 
+[2019/11/18 18:11:06.573577][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:11:06.573637][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  81.757668ms 
+[2019/11/18 18:11:06.585614][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:11:06.585660][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  93.590716ms 
+[2019/11/18 18:11:16.493387][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:16.493408][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:16.493538][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:16.493544][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:16.493772][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:16.493858][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:16.494050][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:16.494143][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:16.494318][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:16.494413][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:16.494446][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:16.494603][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:16.497517][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:11:16.497561][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.154856ms 
+[2019/11/18 18:11:16.497854][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:11:16.497898][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.134207ms 
+[2019/11/18 18:11:16.498017][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:11:16.498042][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.671785ms 
+[2019/11/18 18:11:16.498157][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:11:16.498173][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.133601ms 
+[2019/11/18 18:11:16.499087][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:11:16.499114][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.802597ms 
+[2019/11/18 18:11:16.499489][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:11:16.499514][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.073795ms 
+[2019/11/18 18:11:17.708647][i][7e0ffcf42] api.request GET /refund/general?channel_no=ycdown&request_no=1122&refund_no=3236451&refund_num=1&notify_url=http://192.168.106.174:8600/refund/response from 192.168.4.172
+[2019/11/18 18:11:18.709209][e][7e0ffcf42] error:远程认证失败:/single/apiserver/md5/auth@authserver.sas_debug请求失败:rpc error: code = Unavailable desc = there is no address available(500),err:(500)
+[2019/11/18 18:11:18.709299][e][7e0ffcf42] api.response GET /refund/general?channel_no=ycdown&request_no=1122&refund_no=3236451&refund_num=1&notify_url=http://192.168.106.174:8600/refund/response 500 RAUTH 1.000680654s 
+[2019/11/18 18:11:26.494952][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:26.495077][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:26.495409][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:26.495431][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:26.495536][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:26.495554][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:26.495683][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:26.495771][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:26.495772][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:26.495813][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:26.495862][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:26.495893][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:26.501284][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:11:26.501285][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:11:26.501322][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.50871ms 
+[2019/11/18 18:11:26.501326][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.898759ms 
+[2019/11/18 18:11:26.501381][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:11:26.501410][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  6.07785ms 
+[2019/11/18 18:11:26.501432][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:11:26.501443][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  6.515093ms 
+[2019/11/18 18:11:26.501471][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:11:26.501471][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:11:26.501482][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.730708ms 
+[2019/11/18 18:11:26.501493][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  6.100409ms 
+[2019/11/18 18:11:36.496729][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:36.496954][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:36.497301][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:36.497310][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:36.497492][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:36.497553][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:36.497852][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:36.498010][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:36.498236][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:36.498448][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:36.498724][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:36.499169][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:36.502384][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:11:36.502434][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.146325ms 
+[2019/11/18 18:11:36.503101][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:11:36.503112][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:11:36.503113][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:11:36.503147][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.935231ms 
+[2019/11/18 18:11:36.503156][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.318269ms 
+[2019/11/18 18:11:36.503160][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  6.463348ms 
+[2019/11/18 18:11:36.503272][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:11:36.503299][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.596114ms 
+[2019/11/18 18:11:36.507271][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:11:36.507309][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  10.026534ms 
+[2019/11/18 18:11:46.498903][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:46.499139][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:46.499573][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:46.499630][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:46.499747][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:46.499842][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:46.500025][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:46.500163][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:46.500205][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:46.500367][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:46.500811][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:46.500963][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:46.503908][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:11:46.503955][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.348098ms 
+[2019/11/18 18:11:46.504059][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:11:46.504101][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.557401ms 
+[2019/11/18 18:11:46.505461][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:11:46.505468][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:11:46.505501][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.362485ms 
+[2019/11/18 18:11:46.505505][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:11:46.505546][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  6.675759ms 
+[2019/11/18 18:11:46.505692][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:11:46.505724][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.928768ms 
+[2019/11/18 18:11:46.505915][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.49312ms 
+[2019/11/18 18:11:56.500440][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:56.500454][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:56.500712][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:56.500729][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:56.500889][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:56.501122][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:56.501233][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:56.501314][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:56.501663][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:56.501707][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:11:56.501897][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:56.501928][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:11:56.505392][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:11:56.505442][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.724486ms 
+[2019/11/18 18:11:56.507485][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:11:56.507492][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:11:56.507529][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.838541ms 
+[2019/11/18 18:11:56.507536][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  7.127744ms 
+[2019/11/18 18:11:56.507954][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:11:56.507958][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:11:56.507986][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  6.347979ms 
+[2019/11/18 18:11:56.507990][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  6.887012ms 
+[2019/11/18 18:11:56.513636][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:11:56.513678][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  13.2725ms 
+[2019/11/18 18:12:01.387902][i][501fc18a7] api.request GET /refund/general?channel_no=ycdown&request_no=1122&refund_no=3236451&refund_num=1 from 192.168.4.172
+[2019/11/18 18:12:01.388166][e][501fc18a7] error:远程认证失败:/single/apiserver/md5/auth@authserver.sas_debug请求失败:rpc error: code = Unavailable desc = there is no address available(500),err:(500)
+[2019/11/18 18:12:01.388191][e][501fc18a7] api.response GET /refund/general?channel_no=ycdown&request_no=1122&refund_no=3236451&refund_num=1 500 RAUTH 320.512µs 
+[2019/11/18 18:12:06.501697][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:06.501749][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:06.501795][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:06.501836][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:06.501976][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:06.502054][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:06.502081][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:06.502165][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:06.502167][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:06.502241][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:06.502288][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:06.502356][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:06.505521][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:12:06.505521][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:12:06.505543][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  3.860071ms 
+[2019/11/18 18:12:06.505558][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  3.822637ms 
+[2019/11/18 18:12:06.506488][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:12:06.506509][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.228958ms 
+[2019/11/18 18:12:06.506607][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:12:06.506620][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.651074ms 
+[2019/11/18 18:12:06.506840][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:12:06.506862][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.789376ms 
+[2019/11/18 18:12:06.507385][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:12:06.507404][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.241203ms 
+[2019/11/18 18:12:16.503191][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:16.503417][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:16.503843][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:16.503865][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:16.504024][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:16.504111][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:16.504462][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:16.504638][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:16.504771][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:16.504933][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:16.505033][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:16.505204][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:16.507958][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:12:16.508006][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.192537ms 
+[2019/11/18 18:12:16.508292][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:12:16.508323][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.168983ms 
+[2019/11/18 18:12:16.509239][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:12:16.509307][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.467348ms 
+[2019/11/18 18:12:16.509611][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:12:16.509672][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.636445ms 
+[2019/11/18 18:12:16.510597][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:12:16.510644][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.888181ms 
+[2019/11/18 18:12:16.574544][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:12:16.574593][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  70.145269ms 
+[2019/11/18 18:12:26.504835][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:26.504864][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:26.504884][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:26.505088][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:26.505170][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:26.505197][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:26.505525][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:26.505702][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:26.506051][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:26.506218][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:26.506594][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:26.506847][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:26.509511][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:12:26.509558][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.749351ms 
+[2019/11/18 18:12:26.509805][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:12:26.509848][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.008146ms 
+[2019/11/18 18:12:26.510094][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:12:26.510143][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.281942ms 
+[2019/11/18 18:12:26.510144][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:12:26.510174][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  4.141509ms 
+[2019/11/18 18:12:26.510326][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:12:26.510350][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  3.7831ms 
+[2019/11/18 18:12:26.510672][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:12:26.510698][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  5.19192ms 
+[2019/11/18 18:12:33.98307][i][ba00b0090] apiserver 正在退出...
+[2019/11/18 18:12:33.134777][i][ba00b0090] apiserver 已安全退出
+
+---------------------end-------------------------
+[2019/11/18 18:12:35.852398][i][0572f3a6c] mqc.request: oms_debug.flowserver.4.172 GET /order/pay/down from 
+[2019/11/18 18:12:35.852721][i][0572f3a6c] ---------------下游支付--------------------
+[2019/11/18 18:12:35.852723][i][0572f3a6c] 1.参数校验
+[2019/11/18 18:12:35.905943][i][0572f3a6c] 2.下游支付
+[2019/11/18 18:12:35.962718][i][0572f3a6c] 3.返回结果
+[2019/11/18 18:12:35.970144][i][0572f3a6c] mqc.response: oms_debug.flowserver.4.172 GET /order/pay/down 200  117.776814ms 
+[2019/11/18 18:12:36.276625][i][87672277f] flowserver 正在退出...
+[2019/11/18 18:12:36.506241][i][968d553f3] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:36.506241][i][aa8595525] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:36.506281][i][faf1739a2] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:36.506318][i][cb4aa8f74] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:36.506570][i][aa8595525] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:36.506647][i][968d553f3] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:36.506665][i][faf1739a2] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:36.506676][i][cb4aa8f74] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:36.507101][i][d5b088171] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:36.507190][i][8f5b2ad79] cron.request: flowserver.4.172(cron) GET /task/scan from 
+[2019/11/18 18:12:36.507280][i][d5b088171] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:36.507398][i][8f5b2ad79] ---------------qtask:任务扫描----------------
+[2019/11/18 18:12:36.515661][e][faf1739a2] error:未查询到待处理任务
+[2019/11/18 18:12:36.515706][i][faf1739a2] cron.response: flowserver.4.172(cron) GET /task/scan 204  9.455769ms 
+[2019/11/18 18:12:36.515948][e][aa8595525] error:未查询到待处理任务
+[2019/11/18 18:12:36.515976][i][aa8595525] cron.response: flowserver.4.172(cron) GET /task/scan 204  9.768272ms 
+[2019/11/18 18:12:36.516458][e][968d553f3] error:未查询到待处理任务
+[2019/11/18 18:12:36.516466][e][d5b088171] error:未查询到待处理任务
+[2019/11/18 18:12:36.516472][e][8f5b2ad79] error:未查询到待处理任务
+[2019/11/18 18:12:36.516517][i][968d553f3] cron.response: flowserver.4.172(cron) GET /task/scan 204  10.305435ms 
+[2019/11/18 18:12:36.516811][i][d5b088171] cron.response: flowserver.4.172(cron) GET /task/scan 204  9.77396ms 
+[2019/11/18 18:12:36.516872][i][8f5b2ad79] cron.response: flowserver.4.172(cron) GET /task/scan 204  9.70871ms 
+[2019/11/18 18:12:36.521956][e][cb4aa8f74] error:未查询到待处理任务
+[2019/11/18 18:12:36.521998][i][cb4aa8f74] cron.response: flowserver.4.172(cron) GET /task/scan 204  15.70493ms 
+[2019/11/18 18:12:38.515618][i][87672277f] flowserver 已安全退出
+
+---------------------end-------------------------

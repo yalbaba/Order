@@ -1,0 +1,1261 @@
+
+--------------------begin------------------------
+
+[2019/11/25 17:25:21.92183][i][6e1ab961e] Connected to 192.168.0.101:2181
+[2019/11/25 17:25:21.102367][i][6e1ab961e] authenticated: id=103116747297982533, timeout=4000
+[2019/11/25 17:25:21.102424][i][6e1ab961e] re-submitting `0` credentials after reconnect
+[2019/11/25 17:25:21.140130][i][6e1ab961e] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 17:25:21.156979][i][95880a183] 开始启动[API]服务...
+[2019/11/25 17:25:21.305125][i][95880a183] [启用 静态文件]
+[2019/11/25 17:25:21.305147][i][95880a183] [启用 header设置]
+[2019/11/25 17:25:21.305150][d][95880a183] [未启用 响应格式设置]
+[2019/11/25 17:25:21.305152][d][95880a183] [未启用 熔断设置]
+[2019/11/25 17:25:21.305283][i][95880a183] [启用 jwt设置]
+[2019/11/25 17:25:21.305303][d][95880a183] [未启用 固定密钥认证]
+[2019/11/25 17:25:21.305312][d][95880a183] [未启用 远程服务认证]
+[2019/11/25 17:25:21.305322][d][95880a183] [未启用 ajax请求限制设置]
+[2019/11/25 17:25:21.305326][d][95880a183] [未启用 metric设置]
+[2019/11/25 17:25:21.305328][d][95880a183] [未启用 host设置]
+[2019/11/25 17:25:21.844341][i][95880a183] 服务启动成功(API,http://192.168.4.172:9091,88)
+[2019/11/25 17:25:23.665822][i][6e1ab961e] apiserver 正在退出...
+[2019/11/25 17:25:23.698311][i][6e1ab961e] apiserver 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 17:25:44.862128][i][d0ef88d07] Connected to 192.168.0.101:2181
+[2019/11/25 17:25:44.875408][i][d0ef88d07] authenticated: id=103116747297982535, timeout=4000
+[2019/11/25 17:25:44.875416][i][d0ef88d07] re-submitting `0` credentials after reconnect
+[2019/11/25 17:25:44.911128][i][d0ef88d07] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 17:25:44.931086][i][db40c4f48] 开始启动[API]服务...
+[2019/11/25 17:25:44.993392][i][db40c4f48] [启用 静态文件]
+[2019/11/25 17:25:44.993411][i][db40c4f48] [启用 header设置]
+[2019/11/25 17:25:44.993414][d][db40c4f48] [未启用 响应格式设置]
+[2019/11/25 17:25:44.993416][d][db40c4f48] [未启用 熔断设置]
+[2019/11/25 17:25:44.993468][i][db40c4f48] [启用 jwt设置]
+[2019/11/25 17:25:44.993477][d][db40c4f48] [未启用 固定密钥认证]
+[2019/11/25 17:25:44.993484][d][db40c4f48] [未启用 远程服务认证]
+[2019/11/25 17:25:44.993487][d][db40c4f48] [未启用 ajax请求限制设置]
+[2019/11/25 17:25:44.993490][d][db40c4f48] [未启用 metric设置]
+[2019/11/25 17:25:44.993492][d][db40c4f48] [未启用 host设置]
+[2019/11/25 17:25:45.517316][i][db40c4f48] 服务启动成功(API,http://192.168.4.172:9091,88)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 17:36:14.751694][i][f1b154484] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:36:14.751888][i][f1b154484] api.response OPTIONS /sso/member/menus/get 200  206.639µs 
+[2019/11/25 17:36:14.752603][i][fde1f58ef] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:36:14.752752][i][fde1f58ef] api.response OPTIONS /sso/system/info/get 200  161.474µs 
+[2019/11/25 17:38:01.793913][i][54b8530c8] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:38:01.794045][i][54b8530c8] api.response OPTIONS /sso/member/menus/get 200  150.213µs 
+[2019/11/25 17:38:01.794692][i][f4e106cd8] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:38:01.794788][i][f4e106cd8] api.response OPTIONS /sso/system/info/get 200  107.664µs 
+[2019/11/25 17:38:19.57891][i][20ca8a877] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:38:19.58017][i][20ca8a877] api.response OPTIONS /sso/member/menus/get 200  139.884µs 
+[2019/11/25 17:38:19.58793][i][73b760bbe] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:38:19.58875][i][73b760bbe] api.response OPTIONS /sso/system/info/get 200  96.042µs 
+[2019/11/25 17:38:21.884790][i][9c361ff8e] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:38:21.884883][i][9c361ff8e] api.response OPTIONS /sso/member/menus/get 200  106.113µs 
+[2019/11/25 17:38:21.885552][i][4a4a69fe8] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:38:21.885635][i][4a4a69fe8] api.response OPTIONS /sso/system/info/get 200  94.192µs 
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 17:43:27.686557][i][4aaee0d6f] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:43:27.686688][i][4aaee0d6f] api.response OPTIONS /sso/member/menus/get 200  148.141µs 
+[2019/11/25 17:43:27.687600][i][64e35b66e] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:43:27.687742][i][64e35b66e] api.response OPTIONS /sso/system/info/get 200  153.479µs 
+[2019/11/25 17:43:30.428813][i][288c9c7b4] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:43:30.428921][i][288c9c7b4] api.response OPTIONS /sso/member/menus/get 200  123.897µs 
+[2019/11/25 17:43:30.429782][i][486fdd4ae] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:43:30.429886][i][486fdd4ae] api.response OPTIONS /sso/system/info/get 200  118.887µs 
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 17:48:17.676083][i][5ec35f8a3] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:48:17.676252][i][5ec35f8a3] api.response OPTIONS /sso/member/menus/get 200  199.214µs 
+[2019/11/25 17:48:17.677399][i][fa51721a7] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:48:17.677563][i][fa51721a7] api.response OPTIONS /sso/system/info/get 200  182.624µs 
+[2019/11/25 17:48:28.613365][i][24ef21e43] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:48:28.613490][i][24ef21e43] api.response OPTIONS /sso/member/menus/get 200  138.793µs 
+[2019/11/25 17:48:28.615130][i][097d961ab] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:48:28.615249][i][097d961ab] api.response OPTIONS /sso/system/info/get 200  134.812µs 
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 17:51:39.918818][i][d0ef88d07] apiserver 正在退出...
+[2019/11/25 17:51:39.953616][i][d0ef88d07] apiserver 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 17:54:42.951007][i][a3b2f97d3] Connected to 192.168.0.101:2181
+[2019/11/25 17:54:42.971300][i][a3b2f97d3] authenticated: id=103116747297982552, timeout=4000
+[2019/11/25 17:54:42.971310][i][a3b2f97d3] re-submitting `0` credentials after reconnect
+[2019/11/25 17:54:42.999142][i][a3b2f97d3] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 17:54:43.14567][i][bad3db911] 开始启动[API]服务...
+[2019/11/25 17:54:43.137249][i][bad3db911] [启用 静态文件]
+[2019/11/25 17:54:43.137285][i][bad3db911] [启用 header设置]
+[2019/11/25 17:54:43.137290][d][bad3db911] [未启用 响应格式设置]
+[2019/11/25 17:54:43.137294][d][bad3db911] [未启用 熔断设置]
+[2019/11/25 17:54:43.137391][i][bad3db911] [启用 jwt设置]
+[2019/11/25 17:54:43.137406][d][bad3db911] [未启用 固定密钥认证]
+[2019/11/25 17:54:43.137422][d][bad3db911] [未启用 远程服务认证]
+[2019/11/25 17:54:43.137425][d][bad3db911] [未启用 ajax请求限制设置]
+[2019/11/25 17:54:43.137429][d][bad3db911] [未启用 metric设置]
+[2019/11/25 17:54:43.137432][d][bad3db911] [未启用 host设置]
+[2019/11/25 17:54:43.685541][i][bad3db911] 服务启动成功(API,http://192.168.4.172:9091,88)
+[2019/11/25 17:55:51.784512][i][a3b2f97d3] apiserver 正在退出...
+[2019/11/25 17:55:51.824410][i][a3b2f97d3] apiserver 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 17:57:30.389320][i][37e1bd875] Connected to 192.168.0.101:2181
+[2019/11/25 17:57:30.402738][i][37e1bd875] authenticated: id=103116747297982553, timeout=4000
+[2019/11/25 17:57:30.402748][i][37e1bd875] re-submitting `0` credentials after reconnect
+[2019/11/25 17:57:30.438393][i][37e1bd875] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 17:57:30.454167][i][d2caa7c4b] 开始启动[API]服务...
+[2019/11/25 17:57:30.573396][i][d2caa7c4b] [启用 静态文件]
+[2019/11/25 17:57:30.573429][i][d2caa7c4b] [启用 header设置]
+[2019/11/25 17:57:30.573433][d][d2caa7c4b] [未启用 响应格式设置]
+[2019/11/25 17:57:30.573437][d][d2caa7c4b] [未启用 熔断设置]
+[2019/11/25 17:57:30.573533][i][d2caa7c4b] [启用 jwt设置]
+[2019/11/25 17:57:30.573550][d][d2caa7c4b] [未启用 固定密钥认证]
+[2019/11/25 17:57:30.573562][d][d2caa7c4b] [未启用 远程服务认证]
+[2019/11/25 17:57:30.573566][d][d2caa7c4b] [未启用 ajax请求限制设置]
+[2019/11/25 17:57:30.573571][d][d2caa7c4b] [未启用 metric设置]
+[2019/11/25 17:57:30.573573][d][d2caa7c4b] [未启用 host设置]
+[2019/11/25 17:57:31.104634][i][d2caa7c4b] 服务启动成功(API,http://192.168.4.172:9091,88)
+[2019/11/25 17:57:40.93574][i][9c99037b0] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:57:40.93877][i][9c99037b0] api.response OPTIONS /sso/member/menus/get 200  318.391µs 
+[2019/11/25 17:57:40.94884][i][5fd6e6260] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:57:40.95011][i][5fd6e6260] api.response OPTIONS /sso/system/info/get 200  147.539µs 
+[2019/11/25 17:57:47.311208][i][b71ec5e1c] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:57:47.311342][i][b71ec5e1c] api.response OPTIONS /sso/member/menus/get 200  133.584µs 
+[2019/11/25 17:57:47.317704][i][9eeb77b9e] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:57:47.317801][i][9eeb77b9e] api.response OPTIONS /sso/system/info/get 200  111.347µs 
+[2019/11/25 17:57:58.925499][i][d84ec5e83] api.request OPTIONS /sso/login/verify from 192.168.4.172
+[2019/11/25 17:57:58.925749][i][d84ec5e83] api.response OPTIONS /sso/login/verify 200  268.907µs 
+[2019/11/25 17:58:50.148156][i][7106620cf] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 17:58:50.148300][i][7106620cf] api.response OPTIONS /sso/member/menus/get 200  162.411µs 
+[2019/11/25 17:58:50.149026][i][6daefffe8] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 17:58:50.149137][i][6daefffe8] api.response OPTIONS /sso/system/info/get 200  123.55µs 
+[2019/11/25 17:58:59.88375][i][76e809eab] api.request OPTIONS /sso/login/verify from 192.168.4.172
+[2019/11/25 17:58:59.88492][i][76e809eab] api.response OPTIONS /sso/login/verify 200  130.973µs 
+[2019/11/25 17:59:18.241669][i][d2caa7c4b] [配置发生变化，准备更新]
+[2019/11/25 17:59:18.241682][i][d2caa7c4b] [启用 静态文件]
+[2019/11/25 17:59:18.241726][i][d2caa7c4b] [启用 header设置]
+[2019/11/25 17:59:18.241732][d][d2caa7c4b] [未启用 响应格式设置]
+[2019/11/25 17:59:18.241738][d][d2caa7c4b] [未启用 熔断设置]
+[2019/11/25 17:59:18.241900][i][d2caa7c4b] [启用 jwt设置]
+[2019/11/25 17:59:18.241935][d][d2caa7c4b] [未启用 固定密钥认证]
+[2019/11/25 17:59:18.241961][d][d2caa7c4b] [未启用 远程服务认证]
+[2019/11/25 17:59:18.241967][d][d2caa7c4b] [未启用 ajax请求限制设置]
+[2019/11/25 17:59:18.241975][d][d2caa7c4b] [未启用 metric设置]
+[2019/11/25 17:59:18.241980][d][d2caa7c4b] [未启用 host设置]
+[2019/11/25 17:59:18.241988][i][d2caa7c4b] 配置更新成功
+[2019/11/25 17:59:21.146359][i][d2caa7c4b] [配置发生变化，准备更新]
+[2019/11/25 17:59:21.146364][i][d2caa7c4b] [启用 静态文件]
+[2019/11/25 17:59:21.146376][i][d2caa7c4b] [启用 header设置]
+[2019/11/25 17:59:21.146379][d][d2caa7c4b] [未启用 响应格式设置]
+[2019/11/25 17:59:21.146381][d][d2caa7c4b] [未启用 熔断设置]
+[2019/11/25 17:59:21.146444][i][d2caa7c4b] [启用 jwt设置]
+[2019/11/25 17:59:21.146455][d][d2caa7c4b] [未启用 固定密钥认证]
+[2019/11/25 17:59:21.146465][d][d2caa7c4b] [未启用 远程服务认证]
+[2019/11/25 17:59:21.146468][d][d2caa7c4b] [未启用 ajax请求限制设置]
+[2019/11/25 17:59:21.146471][d][d2caa7c4b] [未启用 metric设置]
+[2019/11/25 17:59:21.146473][d][d2caa7c4b] [未启用 host设置]
+[2019/11/25 17:59:21.146476][i][d2caa7c4b] 配置更新成功
+[2019/11/25 17:59:33.53670][i][d2caa7c4b] [配置发生变化，准备更新]
+[2019/11/25 17:59:33.53682][i][d2caa7c4b] [启用 静态文件]
+[2019/11/25 17:59:33.53707][i][d2caa7c4b] [启用 header设置]
+[2019/11/25 17:59:33.53712][d][d2caa7c4b] [未启用 响应格式设置]
+[2019/11/25 17:59:33.53717][d][d2caa7c4b] [未启用 熔断设置]
+[2019/11/25 17:59:33.53848][i][d2caa7c4b] [启用 jwt设置]
+[2019/11/25 17:59:33.53872][d][d2caa7c4b] [未启用 固定密钥认证]
+[2019/11/25 17:59:33.53890][d][d2caa7c4b] [未启用 远程服务认证]
+[2019/11/25 17:59:33.53893][d][d2caa7c4b] [未启用 ajax请求限制设置]
+[2019/11/25 17:59:33.53899][d][d2caa7c4b] [未启用 metric设置]
+[2019/11/25 17:59:33.53902][d][d2caa7c4b] [未启用 host设置]
+[2019/11/25 17:59:33.53910][i][d2caa7c4b] 配置更新成功
+[2019/11/25 18:00:18.981978][i][f78c6cb37] api.request OPTIONS /sso/login/verify from 192.168.5.93
+[2019/11/25 18:00:18.982190][i][f78c6cb37] api.response OPTIONS /sso/login/verify 200  239.342µs 
+[2019/11/25 18:00:47.38194][i][b1b70e611] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:00:47.38326][i][b1b70e611] api.response OPTIONS /sso/member/menus/get 200  146.691µs 
+[2019/11/25 18:00:47.39195][i][ac149fb97] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:00:47.39276][i][ac149fb97] api.response OPTIONS /sso/system/info/get 200  91.224µs 
+[2019/11/25 18:01:56.274396][i][94bf88579] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:01:56.274539][i][94bf88579] api.response OPTIONS /sso/member/menus/get 200  158.147µs 
+[2019/11/25 18:01:56.275576][i][1827a0e74] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:01:56.275689][i][1827a0e74] api.response OPTIONS /sso/system/info/get 200  129.955µs 
+[2019/11/25 18:02:29.820411][i][d2caa7c4b] [配置发生变化，准备更新]
+[2019/11/25 18:02:29.820420][i][d2caa7c4b] [启用 静态文件]
+[2019/11/25 18:02:29.820440][i][d2caa7c4b] [启用 header设置]
+[2019/11/25 18:02:29.820449][d][d2caa7c4b] [未启用 响应格式设置]
+[2019/11/25 18:02:29.820453][d][d2caa7c4b] [未启用 熔断设置]
+[2019/11/25 18:02:29.820553][i][d2caa7c4b] [启用 jwt设置]
+[2019/11/25 18:02:29.820570][d][d2caa7c4b] [未启用 固定密钥认证]
+[2019/11/25 18:02:29.820583][d][d2caa7c4b] [未启用 远程服务认证]
+[2019/11/25 18:02:29.820586][d][d2caa7c4b] [未启用 ajax请求限制设置]
+[2019/11/25 18:02:29.820592][d][d2caa7c4b] [未启用 metric设置]
+[2019/11/25 18:02:29.820595][d][d2caa7c4b] [未启用 host设置]
+[2019/11/25 18:02:29.820600][i][d2caa7c4b] 配置更新成功
+[2019/11/25 18:02:40.494320][i][a0608eee0] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:02:40.494467][i][a0608eee0] api.response OPTIONS /sso/member/menus/get 200  162.382µs 
+[2019/11/25 18:02:40.495638][i][02b0b29d1] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:02:40.495771][i][02b0b29d1] api.response OPTIONS /sso/system/info/get 200  145.217µs 
+[2019/11/25 18:02:40.562920][i][796ccc8fb] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:02:40.562952][e][796ccc8fb] token contains an invalid number of segments
+[2019/11/25 18:02:40.562973][e][796ccc8fb] api.response GET /sso/member/menus/get 403  68.048µs 
+[2019/11/25 18:02:40.563992][i][4da8397b1] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:02:40.564009][e][4da8397b1] token contains an invalid number of segments
+[2019/11/25 18:02:40.564032][e][4da8397b1] api.response GET /sso/system/info/get 403  51.815µs 
+[2019/11/25 18:02:41.722143][i][c28e27569] api.request OPTIONS /sso/login/verify from 192.168.4.172
+[2019/11/25 18:02:41.722250][i][c28e27569] api.response OPTIONS /sso/login/verify 200  124.099µs 
+[2019/11/25 18:02:41.727848][i][92830cfe6] api.request POST /sso/login/verify from 192.168.4.172
+[2019/11/25 18:02:41.728026][i][92830cfe6] -------sso登录后去取登录用户---------
+[2019/11/25 18:02:41.728029][i][92830cfe6] 1: 验证参数
+[2019/11/25 18:02:41.728034][i][92830cfe6] 2: 调用sso api 用code取用户信息
+[2019/11/25 18:02:41.772802][i][92830cfe6] data: &{10740 luyue 管理员 743 oms_t 0 0 http://192.168.4.172:8085/ssocallback }
+[2019/11/25 18:02:41.772806][i][92830cfe6] 3: 返回用户数据
+[2019/11/25 18:02:41.772870][i][92830cfe6] api.response POST /sso/login/verify 200  45.037522ms 
+[2019/11/25 18:02:42.522140][i][c71a39b8e] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:02:42.522320][i][c71a39b8e] -------去sso获取菜单数据---------
+[2019/11/25 18:02:42.522321][i][c71a39b8e] 1: 获取登录用户信息
+[2019/11/25 18:02:42.522321][i][c71a39b8e] 2: 远程获取菜单信息
+[2019/11/25 18:02:42.523131][i][5296bcc16] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:02:42.523315][i][5296bcc16] --------去sso获取系统信息----------
+[2019/11/25 18:02:42.523315][i][5296bcc16] 1. 执行操作
+[2019/11/25 18:02:42.534636][i][5296bcc16] 2. 返回数据
+[2019/11/25 18:02:42.534709][i][5296bcc16] api.response GET /sso/system/info/get 200  11.590349ms 
+[2019/11/25 18:02:42.540838][i][c71a39b8e] 3: 远程获取菜单信息
+[2019/11/25 18:02:42.540951][i][c71a39b8e] api.response GET /sso/member/menus/get 200  18.825289ms 
+[2019/11/25 18:02:42.609809][i][2deecbce4] api.request OPTIONS /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:02:42.609950][i][2deecbce4] api.response OPTIONS /sso/member/systems/get 200  156.018µs 
+[2019/11/25 18:02:42.628777][i][c97fcc5cc] api.request GET /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:02:42.628969][i][c97fcc5cc] --------获取用户可用的其他系统--------
+[2019/11/25 18:02:42.628970][i][c97fcc5cc] 1.获取用户信息
+[2019/11/25 18:02:42.628971][i][c97fcc5cc] 2.获取数据
+[2019/11/25 18:02:42.643152][i][c97fcc5cc] 3.返回结果
+[2019/11/25 18:02:42.643324][i][c97fcc5cc] api.response GET /sso/member/systems/get 200  14.544731ms 
+[2019/11/25 18:02:42.660654][i][49ddf5327] api.request OPTIONS /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:02:42.660777][i][49ddf5327] api.response OPTIONS /dds/dictionary/get?dic_type=ChangeType 200  138.106µs 
+[2019/11/25 18:02:42.662042][i][73ded3663] api.request GET /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:02:42.662244][i][73ded3663] -------获取字典信息---------
+[2019/11/25 18:02:42.662244][i][73ded3663] 1: 验证参数
+[2019/11/25 18:02:42.662256][i][73ded3663] 2: 获取数据
+[2019/11/25 18:02:42.677916][i][73ded3663] 3: 返回数据
+[2019/11/25 18:02:42.678002][i][73ded3663] api.response GET /dds/dictionary/get?dic_type=ChangeType 200  15.9767ms 
+[2019/11/25 18:02:42.684555][i][62c3dd0d3] api.request OPTIONS /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:02:42.684652][i][62c3dd0d3] api.response OPTIONS /dds/dictionary/get?dic_type=AuditStatus 200  111.897µs 
+[2019/11/25 18:02:42.685904][i][344cbc0e6] api.request GET /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:02:42.686104][i][344cbc0e6] -------获取字典信息---------
+[2019/11/25 18:02:42.686105][i][344cbc0e6] 1: 验证参数
+[2019/11/25 18:02:42.686117][i][344cbc0e6] 2: 获取数据
+[2019/11/25 18:02:42.688001][i][344cbc0e6] 3: 返回数据
+[2019/11/25 18:02:42.688073][i][344cbc0e6] api.response GET /dds/dictionary/get?dic_type=AuditStatus 200  2.181005ms 
+[2019/11/25 18:02:42.853084][i][4fa0c8028] api.request OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:02:42.853206][i][4fa0c8028] api.response OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  137.356µs 
+[2019/11/25 18:02:42.873556][i][67bf68e0d] api.request GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:02:42.873814][i][67bf68e0d] --------获取发货人工审核表数据列表--------
+[2019/11/25 18:02:42.873820][i][67bf68e0d] 1.参数校验
+[2019/11/25 18:02:42.873930][i][67bf68e0d] 2.执行操作
+[2019/11/25 18:02:42.878508][e][67bf68e0d] error:获取发货人工审核表列表条数发生错误(err:ORA-00936: missing expression
+),sql:
+select count(1)
+from oms_audit_info t
+where 
+ 
+ 
+ 
+ 
+and t.create_time>=to_date(:1,'yyyy-mm-dd hh24:mi:ss')
+and t.create_time<=to_date(:2,'yyyy-mm-dd hh24:mi:ss')+1 
+
+,输入参数:[2019-11-25 00:00:00 2019-11-25 00:00:00]
+[2019/11/25 18:02:42.878644][e][67bf68e0d] api.response GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 501  5.106281ms 
+[2019/11/25 18:02:48.260495][i][f21dae1e2] api.request OPTIONS /dds/dictionary/get?dic_type=Status from 192.168.4.172
+[2019/11/25 18:02:48.260639][i][f21dae1e2] api.response OPTIONS /dds/dictionary/get?dic_type=Status 200  162.784µs 
+[2019/11/25 18:02:48.262031][i][d8c0daed5] api.request GET /dds/dictionary/get?dic_type=Status from 192.168.4.172
+[2019/11/25 18:02:48.262316][i][d8c0daed5] -------获取字典信息---------
+[2019/11/25 18:02:48.262317][i][d8c0daed5] 1: 验证参数
+[2019/11/25 18:02:48.262333][i][d8c0daed5] 2: 获取数据
+[2019/11/25 18:02:48.264469][i][d8c0daed5] 3: 返回数据
+[2019/11/25 18:02:48.264564][i][d8c0daed5] api.response GET /dds/dictionary/get?dic_type=Status 200  2.547725ms 
+[2019/11/25 18:02:48.340528][i][2c96a405b] api.request OPTIONS /dds/dic/info/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:02:48.340707][i][2c96a405b] api.response OPTIONS /dds/dic/info/query?pi=1&ps=10 200  195.691µs 
+[2019/11/25 18:02:48.347999][i][9c656c6af] api.request GET /dds/dic/info/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:02:48.348200][i][9c656c6af] --------获取字典表数据列表--------
+[2019/11/25 18:02:48.348201][i][9c656c6af] 1.参数校验
+[2019/11/25 18:02:48.348226][i][9c656c6af] 2.执行操作
+[2019/11/25 18:02:48.354043][e][9c656c6af] error:获取字典表列表条数发生错误(err:ORA-00936: missing expression
+),sql:
+select count(1)
+from dds_dictionary_info t
+where 
+ 
+ 
+
+,输入参数:[]
+[2019/11/25 18:02:48.354160][e][9c656c6af] api.response GET /dds/dic/info/query?pi=1&ps=10 501  6.17739ms 
+[2019/11/25 18:02:48.978649][i][1967f1435] api.request OPTIONS /oms/canton/info/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:02:48.978791][i][1967f1435] api.response OPTIONS /oms/canton/info/query?pi=1&ps=10 200  159.271µs 
+[2019/11/25 18:02:48.983838][i][6e08d54ee] api.request GET /oms/canton/info/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:02:48.984055][i][6e08d54ee] --------获取省市信息数据列表--------
+[2019/11/25 18:02:48.984058][i][6e08d54ee] 1.参数校验
+[2019/11/25 18:02:48.984091][i][6e08d54ee] 2.执行操作
+[2019/11/25 18:02:48.987427][e][6e08d54ee] error:获取省市信息列表条数发生错误(err:ORA-00936: missing expression
+),sql:
+select count(1)
+from oms_canton_info t
+where 
+ 
+ 
+ 
+
+,输入参数:[]
+[2019/11/25 18:02:48.987526][e][6e08d54ee] api.response GET /oms/canton/info/query?pi=1&ps=10 501  3.716157ms 
+[2019/11/25 18:02:51.90957][i][8a7e9c10d] api.request OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:02:51.91090][i][8a7e9c10d] api.response OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery 200  150.858µs 
+[2019/11/25 18:02:51.92634][i][ff3533a66] api.request GET /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:02:51.92864][i][ff3533a66] -------获取字典信息---------
+[2019/11/25 18:02:51.92865][i][ff3533a66] 1: 验证参数
+[2019/11/25 18:02:51.92878][i][ff3533a66] 2: 获取数据
+[2019/11/25 18:02:51.96485][i][ff3533a66] 3: 返回数据
+[2019/11/25 18:02:51.96595][i][ff3533a66] api.response GET /dds/dictionary/get?dic_type=CanPackageDelivery 200  3.972998ms 
+[2019/11/25 18:02:51.155135][i][199c1cb59] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:02:51.155322][i][199c1cb59] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  199.818µs 
+[2019/11/25 18:02:51.159605][i][e0806a7d8] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:02:51.159821][i][e0806a7d8] --------获取产品线数据列表--------
+[2019/11/25 18:02:51.159822][i][e0806a7d8] 1.参数校验
+[2019/11/25 18:02:51.159854][i][e0806a7d8] 2.执行操作
+[2019/11/25 18:02:51.162884][e][e0806a7d8] error:获取产品线列表条数发生错误(err:ORA-00936: missing expression
+),sql:
+select count(1)
+from oms_product_line t
+where 
+ 
+
+,输入参数:[]
+[2019/11/25 18:02:51.162967][e][e0806a7d8] api.response GET /oms/product/line/query?pi=1&ps=10 501  3.376999ms 
+[2019/11/25 18:02:53.646872][i][520d52c2a] api.request OPTIONS /oms/up/channel/getdictionary?dic_type=ChannelNo from 192.168.4.172
+[2019/11/25 18:02:53.647022][i][520d52c2a] api.response OPTIONS /oms/up/channel/getdictionary?dic_type=ChannelNo 200  175.455µs 
+[2019/11/25 18:02:53.648962][i][000790cc1] api.request GET /oms/up/channel/getdictionary?dic_type=ChannelNo from 192.168.4.172
+[2019/11/25 18:02:53.649175][i][000790cc1] --------获取上游渠道数据字典--------
+[2019/11/25 18:02:53.649175][i][000790cc1] 1.执行操作
+[2019/11/25 18:02:53.657374][i][000790cc1] 2.返回结果
+[2019/11/25 18:02:53.657450][i][000790cc1] api.response GET /oms/up/channel/getdictionary?dic_type=ChannelNo 200  8.504005ms 
+[2019/11/25 18:02:53.660586][i][621dc6463] api.request OPTIONS /dds/dictionary/get?dic_type=ServiceClass from 192.168.4.172
+[2019/11/25 18:02:53.660729][i][621dc6463] api.response OPTIONS /dds/dictionary/get?dic_type=ServiceClass 200  167.004µs 
+[2019/11/25 18:02:53.662235][i][b534d1e99] api.request GET /dds/dictionary/get?dic_type=ServiceClass from 192.168.4.172
+[2019/11/25 18:02:53.662480][i][b534d1e99] -------获取字典信息---------
+[2019/11/25 18:02:53.662481][i][b534d1e99] 1: 验证参数
+[2019/11/25 18:02:53.662495][i][b534d1e99] 2: 获取数据
+[2019/11/25 18:02:53.664376][i][b534d1e99] 3: 返回数据
+[2019/11/25 18:02:53.664462][i][b534d1e99] api.response GET /dds/dictionary/get?dic_type=ServiceClass 200  2.248303ms 
+[2019/11/25 18:02:53.725153][i][97d00786d] api.request OPTIONS /vds/channel/error/code/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:02:53.725270][i][97d00786d] api.response OPTIONS /vds/channel/error/code/query?pi=1&ps=10 200  141.535µs 
+[2019/11/25 18:02:53.734159][i][1bc1ab282] api.request GET /vds/channel/error/code/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:02:53.734369][i][1bc1ab282] --------获取渠道错误码数据列表--------
+[2019/11/25 18:02:53.734370][i][1bc1ab282] 1.参数校验
+[2019/11/25 18:02:53.734397][i][1bc1ab282] 2.执行操作
+[2019/11/25 18:02:53.739257][e][1bc1ab282] error:获取渠道错误码列表条数发生错误(err:ORA-00936: missing expression
+),sql:
+select count(1)
+from vds_channel_error_code t
+where 
+ 
+
+,输入参数:[]
+[2019/11/25 18:02:53.739333][e][1bc1ab282] api.response GET /vds/channel/error/code/query?pi=1&ps=10 501  5.190072ms 
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:09:32.533492][i][37e1bd875] apiserver 正在退出...
+[2019/11/25 18:09:32.557601][i][37e1bd875] apiserver 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:09:43.912200][i][1bee62511] Connected to 192.168.0.101:2181
+[2019/11/25 18:09:43.921711][i][1bee62511] authenticated: id=103116747297982558, timeout=4000
+[2019/11/25 18:09:43.921718][i][1bee62511] re-submitting `0` credentials after reconnect
+[2019/11/25 18:09:43.961107][i][1bee62511] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 18:09:43.974517][i][11acb6ec7] 开始启动[API]服务...
+[2019/11/25 18:09:44.85754][i][11acb6ec7] [启用 静态文件]
+[2019/11/25 18:09:44.85789][i][11acb6ec7] [启用 header设置]
+[2019/11/25 18:09:44.85795][d][11acb6ec7] [未启用 响应格式设置]
+[2019/11/25 18:09:44.85800][d][11acb6ec7] [未启用 熔断设置]
+[2019/11/25 18:09:44.85888][i][11acb6ec7] [启用 jwt设置]
+[2019/11/25 18:09:44.85904][d][11acb6ec7] [未启用 固定密钥认证]
+[2019/11/25 18:09:44.85915][d][11acb6ec7] [未启用 远程服务认证]
+[2019/11/25 18:09:44.85919][d][11acb6ec7] [未启用 ajax请求限制设置]
+[2019/11/25 18:09:44.85925][d][11acb6ec7] [未启用 metric设置]
+[2019/11/25 18:09:44.85928][d][11acb6ec7] [未启用 host设置]
+[2019/11/25 18:09:44.616295][i][11acb6ec7] 服务启动成功(API,http://192.168.4.172:9091,88)
+[2019/11/25 18:09:55.672897][i][2dcff66e6] api.request OPTIONS /oms/up/channel/getdictionary?dic_type=ChannelNo from 192.168.4.172
+[2019/11/25 18:09:55.673096][i][2dcff66e6] api.response OPTIONS /oms/up/channel/getdictionary?dic_type=ChannelNo 200  214.303µs 
+[2019/11/25 18:09:55.674096][i][0b3ecff70] api.request GET /oms/up/channel/getdictionary?dic_type=ChannelNo from 192.168.4.172
+[2019/11/25 18:09:55.674314][i][0b3ecff70] --------获取上游渠道数据字典--------
+[2019/11/25 18:09:55.674315][i][0b3ecff70] 1.执行操作
+[2019/11/25 18:09:55.678315][i][0b3ecff70] 2.返回结果
+[2019/11/25 18:09:55.678396][i][0b3ecff70] api.response GET /oms/up/channel/getdictionary?dic_type=ChannelNo 200  4.353828ms 
+[2019/11/25 18:09:55.681572][i][a53ac7d8c] api.request OPTIONS /dds/dictionary/get?dic_type=ServiceClass from 192.168.4.172
+[2019/11/25 18:09:55.681700][i][a53ac7d8c] api.response OPTIONS /dds/dictionary/get?dic_type=ServiceClass 200  160.145µs 
+[2019/11/25 18:09:55.682700][i][d24d4f7a3] api.request GET /dds/dictionary/get?dic_type=ServiceClass from 192.168.4.172
+[2019/11/25 18:09:55.682881][i][d24d4f7a3] -------获取字典信息---------
+[2019/11/25 18:09:55.682885][i][d24d4f7a3] 1: 验证参数
+[2019/11/25 18:09:55.682897][i][d24d4f7a3] 2: 获取数据
+[2019/11/25 18:09:55.685436][i][d24d4f7a3] 3: 返回数据
+[2019/11/25 18:09:55.685515][i][d24d4f7a3] api.response GET /dds/dictionary/get?dic_type=ServiceClass 200  2.826351ms 
+[2019/11/25 18:09:55.800995][i][d646e37c6] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:09:55.801147][i][d646e37c6] api.response OPTIONS /sso/member/menus/get 200  179.266µs 
+[2019/11/25 18:09:55.801912][i][0fbb129f2] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:09:55.802051][i][0fbb129f2] api.response OPTIONS /sso/system/info/get 200  150.868µs 
+[2019/11/25 18:09:55.804759][i][1a6242876] api.request OPTIONS /vds/channel/error/code/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:09:55.804903][i][1a6242876] api.response OPTIONS /vds/channel/error/code/query?pi=1&ps=10 200  156.398µs 
+[2019/11/25 18:09:55.821748][i][bc5b6321c] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:09:55.821997][i][bc5b6321c] -------去sso获取菜单数据---------
+[2019/11/25 18:09:55.821998][i][bc5b6321c] 1: 获取登录用户信息
+[2019/11/25 18:09:55.821999][i][bc5b6321c] 2: 远程获取菜单信息
+[2019/11/25 18:09:55.822422][i][830b770e4] api.request GET /vds/channel/error/code/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:09:55.822426][i][3d8b68f22] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:09:55.822663][i][3d8b68f22] --------去sso获取系统信息----------
+[2019/11/25 18:09:55.822664][i][3d8b68f22] 1. 执行操作
+[2019/11/25 18:09:55.822949][i][830b770e4] --------获取渠道错误码数据列表--------
+[2019/11/25 18:09:55.822950][i][830b770e4] 1.参数校验
+[2019/11/25 18:09:55.823004][i][830b770e4] 2.执行操作
+[2019/11/25 18:09:55.834021][i][3d8b68f22] 2. 返回数据
+[2019/11/25 18:09:55.834100][i][3d8b68f22] api.response GET /sso/system/info/get 200  11.681761ms 
+[2019/11/25 18:09:55.841319][i][bc5b6321c] 3: 远程获取菜单信息
+[2019/11/25 18:09:55.841465][i][bc5b6321c] api.response GET /sso/member/menus/get 200  19.732202ms 
+[2019/11/25 18:09:55.851616][i][dc7884d13] api.request OPTIONS /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:09:55.851766][i][dc7884d13] api.response OPTIONS /sso/member/systems/get 200  166.868µs 
+[2019/11/25 18:09:55.863606][i][905044afb] api.request GET /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:09:55.863827][i][905044afb] --------获取用户可用的其他系统--------
+[2019/11/25 18:09:55.863828][i][905044afb] 1.获取用户信息
+[2019/11/25 18:09:55.863829][i][905044afb] 2.获取数据
+[2019/11/25 18:09:55.872906][i][905044afb] 3.返回结果
+[2019/11/25 18:09:55.872976][i][905044afb] api.response GET /sso/member/systems/get 200  9.38544ms 
+[2019/11/25 18:09:55.877454][i][830b770e4] 3.返回结果
+[2019/11/25 18:09:55.877560][i][830b770e4] api.response GET /vds/channel/error/code/query?pi=1&ps=10 200  55.14793ms 
+[2019/11/25 18:09:55.881837][i][05b824905] api.request OPTIONS /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:09:55.881932][i][05b824905] api.response OPTIONS /dds/dictionary/get?dic_type=ChangeType 200  110.008µs 
+[2019/11/25 18:09:55.882907][i][3a2713cc6] api.request GET /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:09:55.883067][i][3a2713cc6] -------获取字典信息---------
+[2019/11/25 18:09:55.883070][i][3a2713cc6] 1: 验证参数
+[2019/11/25 18:09:55.883080][i][3a2713cc6] 2: 获取数据
+[2019/11/25 18:09:55.885049][i][3a2713cc6] 3: 返回数据
+[2019/11/25 18:09:55.885107][i][3a2713cc6] api.response GET /dds/dictionary/get?dic_type=ChangeType 200  2.210695ms 
+[2019/11/25 18:09:55.887143][i][a740c9911] api.request OPTIONS /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:09:55.887234][i][a740c9911] api.response OPTIONS /dds/dictionary/get?dic_type=AuditStatus 200  104.177µs 
+[2019/11/25 18:09:55.888214][i][ca2fc5f23] api.request GET /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:09:55.888388][i][ca2fc5f23] -------获取字典信息---------
+[2019/11/25 18:09:55.888389][i][ca2fc5f23] 1: 验证参数
+[2019/11/25 18:09:55.888407][i][ca2fc5f23] 2: 获取数据
+[2019/11/25 18:09:55.890975][i][ca2fc5f23] 3: 返回数据
+[2019/11/25 18:09:55.891115][i][ca2fc5f23] api.response GET /dds/dictionary/get?dic_type=AuditStatus 200  2.909367ms 
+[2019/11/25 18:09:55.990645][i][09cf7c2aa] api.request OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:09:55.990829][i][09cf7c2aa] api.response OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  196.951µs 
+[2019/11/25 18:09:56.2254][i][91a9a8d0b] api.request GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:09:56.2471][i][91a9a8d0b] --------获取发货人工审核表数据列表--------
+[2019/11/25 18:09:56.2473][i][91a9a8d0b] 1.参数校验
+[2019/11/25 18:09:56.2503][i][91a9a8d0b] 2.执行操作
+[2019/11/25 18:09:56.6842][i][91a9a8d0b] 3.返回结果
+[2019/11/25 18:09:56.6920][i][91a9a8d0b] api.response GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  4.682999ms 
+[2019/11/25 18:10:26.956381][i][0cc9c9a9a] api.request OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:10:26.956559][i][0cc9c9a9a] api.response OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery 200  200.64µs 
+[2019/11/25 18:10:26.957899][i][c733a040a] api.request GET /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:10:26.958096][i][c733a040a] -------获取字典信息---------
+[2019/11/25 18:10:26.958097][i][c733a040a] 1: 验证参数
+[2019/11/25 18:10:26.958121][i][c733a040a] 2: 获取数据
+[2019/11/25 18:10:26.960143][i][c733a040a] 3: 返回数据
+[2019/11/25 18:10:26.960219][i][c733a040a] api.response GET /dds/dictionary/get?dic_type=CanPackageDelivery 200  2.34504ms 
+[2019/11/25 18:10:27.37753][i][58fb7b1fd] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:10:27.37905][i][58fb7b1fd] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  176.396µs 
+[2019/11/25 18:10:27.46720][i][b9dbcc72c] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:10:27.46971][i][b9dbcc72c] --------获取产品线数据列表--------
+[2019/11/25 18:10:27.46975][i][b9dbcc72c] 1.参数校验
+[2019/11/25 18:10:27.46998][i][b9dbcc72c] 2.执行操作
+[2019/11/25 18:10:27.51973][i][b9dbcc72c] 3.返回结果
+[2019/11/25 18:10:27.52101][i][b9dbcc72c] api.response GET /oms/product/line/query?pi=1&ps=10 200  5.397939ms 
+[2019/11/25 18:11:11.337277][i][637de15ab] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:11:11.337468][i][637de15ab] api.response OPTIONS /oms/product/line 200  206.684µs 
+[2019/11/25 18:11:11.341620][i][57d61c463] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:11:11.341829][i][57d61c463] --------添加产品线数据--------
+[2019/11/25 18:11:11.341830][i][57d61c463] 1.参数校验
+[2019/11/25 18:11:11.341858][e][57d61c463] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:11:11.341908][e][57d61c463] api.response POST /oms/product/line 406  300.815µs 
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:23:14.381386][i][1bee62511] apiserver 正在退出...
+[2019/11/25 18:23:14.398563][i][1bee62511] apiserver 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:23:35.982428][i][15005d1f6] Connected to 192.168.0.101:2181
+[2019/11/25 18:23:35.992743][i][15005d1f6] authenticated: id=103116747297982565, timeout=4000
+[2019/11/25 18:23:35.992751][i][15005d1f6] re-submitting `0` credentials after reconnect
+[2019/11/25 18:23:36.31372][i][15005d1f6] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 18:23:36.43489][i][f13cd13dc] 开始启动[API]服务...
+[2019/11/25 18:23:36.108551][i][f13cd13dc] [启用 静态文件]
+[2019/11/25 18:23:36.108585][i][f13cd13dc] [启用 header设置]
+[2019/11/25 18:23:36.108589][d][f13cd13dc] [未启用 响应格式设置]
+[2019/11/25 18:23:36.108594][d][f13cd13dc] [未启用 熔断设置]
+[2019/11/25 18:23:36.108665][i][f13cd13dc] [启用 jwt设置]
+[2019/11/25 18:23:36.108677][d][f13cd13dc] [未启用 固定密钥认证]
+[2019/11/25 18:23:36.108684][d][f13cd13dc] [未启用 远程服务认证]
+[2019/11/25 18:23:36.108687][d][f13cd13dc] [未启用 ajax请求限制设置]
+[2019/11/25 18:23:36.108691][d][f13cd13dc] [未启用 metric设置]
+[2019/11/25 18:23:36.108694][d][f13cd13dc] [未启用 host设置]
+[2019/11/25 18:23:36.642845][i][f13cd13dc] 服务启动成功(API,http://192.168.4.172:9091,88)
+[2019/11/25 18:23:42.639387][i][459464bda] api.request OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:23:42.639594][i][459464bda] api.response OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery 200  226.919µs 
+[2019/11/25 18:23:42.640594][i][62cfeae47] api.request GET /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:23:42.640824][i][62cfeae47] -------获取字典信息---------
+[2019/11/25 18:23:42.640824][i][62cfeae47] 1: 验证参数
+[2019/11/25 18:23:42.640835][i][62cfeae47] 2: 获取数据
+[2019/11/25 18:23:42.644134][i][62cfeae47] 3: 返回数据
+[2019/11/25 18:23:42.644249][i][62cfeae47] api.response GET /dds/dictionary/get?dic_type=CanPackageDelivery 200  3.666618ms 
+[2019/11/25 18:23:42.760951][i][fa0c3b032] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:23:42.761105][i][fa0c3b032] api.response OPTIONS /sso/member/menus/get 200  168.298µs 
+[2019/11/25 18:23:42.761927][i][77e8e0648] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:23:42.762044][i][77e8e0648] api.response OPTIONS /sso/system/info/get 200  128.711µs 
+[2019/11/25 18:23:42.764473][i][dc7ca3912] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:23:42.764625][i][dc7ca3912] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  186.165µs 
+[2019/11/25 18:23:42.777918][i][28586a949] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:23:42.778184][i][28586a949] -------去sso获取菜单数据---------
+[2019/11/25 18:23:42.778187][i][28586a949] 1: 获取登录用户信息
+[2019/11/25 18:23:42.778187][i][28586a949] 2: 远程获取菜单信息
+[2019/11/25 18:23:42.778881][i][effae9c9f] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:23:42.779204][i][effae9c9f] --------去sso获取系统信息----------
+[2019/11/25 18:23:42.779205][i][effae9c9f] 1. 执行操作
+[2019/11/25 18:23:42.779464][i][e5929415e] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:23:42.779694][i][e5929415e] --------获取产品线数据列表--------
+[2019/11/25 18:23:42.779699][i][e5929415e] 1.参数校验
+[2019/11/25 18:23:42.779773][i][e5929415e] 2.执行操作
+[2019/11/25 18:23:42.784563][i][e5929415e] 3.返回结果
+[2019/11/25 18:23:42.784717][i][e5929415e] api.response GET /oms/product/line/query?pi=1&ps=10 200  5.263452ms 
+[2019/11/25 18:23:42.791692][i][effae9c9f] 2. 返回数据
+[2019/11/25 18:23:42.791769][i][effae9c9f] api.response GET /sso/system/info/get 200  12.897859ms 
+[2019/11/25 18:23:42.796685][i][28586a949] 3: 远程获取菜单信息
+[2019/11/25 18:23:42.796966][i][28586a949] api.response GET /sso/member/menus/get 200  19.074641ms 
+[2019/11/25 18:23:42.848032][i][3f0e948bd] api.request OPTIONS /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:23:42.848151][i][3f0e948bd] api.response OPTIONS /sso/member/systems/get 200  134.496µs 
+[2019/11/25 18:23:42.855990][i][4aad1f715] api.request GET /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:23:42.856205][i][4aad1f715] --------获取用户可用的其他系统--------
+[2019/11/25 18:23:42.856209][i][4aad1f715] 1.获取用户信息
+[2019/11/25 18:23:42.856210][i][4aad1f715] 2.获取数据
+[2019/11/25 18:23:42.871866][i][4aad1f715] 3.返回结果
+[2019/11/25 18:23:42.871928][i][4aad1f715] api.response GET /sso/member/systems/get 200  15.954219ms 
+[2019/11/25 18:23:42.877176][i][8dd9df216] api.request OPTIONS /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:23:42.877340][i][8dd9df216] api.response OPTIONS /dds/dictionary/get?dic_type=ChangeType 200  185.479µs 
+[2019/11/25 18:23:42.878622][i][c7fd6bf21] api.request GET /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:23:42.878796][i][c7fd6bf21] -------获取字典信息---------
+[2019/11/25 18:23:42.878798][i][c7fd6bf21] 1: 验证参数
+[2019/11/25 18:23:42.878809][i][c7fd6bf21] 2: 获取数据
+[2019/11/25 18:23:42.881581][i][c7fd6bf21] 3: 返回数据
+[2019/11/25 18:23:42.881693][i][c7fd6bf21] api.response GET /dds/dictionary/get?dic_type=ChangeType 200  3.104952ms 
+[2019/11/25 18:23:42.884277][i][d5352783e] api.request OPTIONS /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:23:42.884420][i][d5352783e] api.response OPTIONS /dds/dictionary/get?dic_type=AuditStatus 200  161.734µs 
+[2019/11/25 18:23:42.885901][i][fe8cfa8f7] api.request GET /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:23:42.886177][i][fe8cfa8f7] -------获取字典信息---------
+[2019/11/25 18:23:42.886179][i][fe8cfa8f7] 1: 验证参数
+[2019/11/25 18:23:42.886189][i][fe8cfa8f7] 2: 获取数据
+[2019/11/25 18:23:42.888276][i][fe8cfa8f7] 3: 返回数据
+[2019/11/25 18:23:42.888354][i][fe8cfa8f7] api.response GET /dds/dictionary/get?dic_type=AuditStatus 200  2.468125ms 
+[2019/11/25 18:23:42.990241][i][38d2ccc93] api.request OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:23:42.990400][i][38d2ccc93] api.response OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  181.635µs 
+[2019/11/25 18:23:43.4228][i][b520e58aa] api.request GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:23:43.4469][i][b520e58aa] --------获取发货人工审核表数据列表--------
+[2019/11/25 18:23:43.4472][i][b520e58aa] 1.参数校验
+[2019/11/25 18:23:43.4508][i][b520e58aa] 2.执行操作
+[2019/11/25 18:23:43.10460][i][b520e58aa] 3.返回结果
+[2019/11/25 18:23:43.10574][i][b520e58aa] api.response GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  6.362219ms 
+[2019/11/25 18:23:44.830838][i][b88636efe] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:23:44.831018][i][b88636efe] --------获取产品线数据列表--------
+[2019/11/25 18:23:44.831019][i][b88636efe] 1.参数校验
+[2019/11/25 18:23:44.831037][i][b88636efe] 2.执行操作
+[2019/11/25 18:23:44.834883][i][b88636efe] 3.返回结果
+[2019/11/25 18:23:44.835012][i][b88636efe] api.response GET /oms/product/line/query?pi=1&ps=10 200  4.189344ms 
+[2019/11/25 18:23:57.81619][i][5de39b99d] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:23:57.81794][i][5de39b99d] api.response OPTIONS /oms/product/line 200  192.523µs 
+[2019/11/25 18:23:57.86478][i][d55f81f80] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:23:57.86738][i][d55f81f80] --------添加产品线数据--------
+[2019/11/25 18:23:57.86739][i][d55f81f80] 1.参数校验
+[2019/11/25 18:23:57.86771][e][d55f81f80] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:23:57.86820][e][d55f81f80] api.response POST /oms/product/line 406  359.331µs 
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:29:19.82268][i][e30fea870] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:29:19.82526][i][e30fea870] api.response OPTIONS /oms/product/line 200  283.411µs 
+[2019/11/25 18:29:19.87868][i][16d25ffc2] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:29:19.88258][i][16d25ffc2] --------添加产品线数据--------
+[2019/11/25 18:29:19.88260][i][16d25ffc2] 1.参数校验
+[2019/11/25 18:29:19.88293][i][16d25ffc2] 2.执行操作
+[2019/11/25 18:29:19.137275][i][16d25ffc2] 3.返回结果
+[2019/11/25 18:29:19.137453][i][16d25ffc2] api.response POST /oms/product/line 200  49.637129ms 
+[2019/11/25 18:29:43.124985][i][1b77d3e5f] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:29:43.125135][i][1b77d3e5f] api.response OPTIONS /oms/product/line 200  169.084µs 
+[2019/11/25 18:29:43.129839][i][250221ad8] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:29:43.130078][i][250221ad8] --------添加产品线数据--------
+[2019/11/25 18:29:43.130079][i][250221ad8] 1.参数校验
+[2019/11/25 18:29:43.130106][e][250221ad8] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:29:43.130145][e][250221ad8] api.response POST /oms/product/line 406  318.718µs 
+[2019/11/25 18:29:45.891227][i][c8e1c08e2] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:29:45.891598][i][c8e1c08e2] --------添加产品线数据--------
+[2019/11/25 18:29:45.891600][i][c8e1c08e2] 1.参数校验
+[2019/11/25 18:29:45.891633][i][c8e1c08e2] 2.执行操作
+[2019/11/25 18:29:45.909733][i][c8e1c08e2] 3.返回结果
+[2019/11/25 18:29:45.909809][i][c8e1c08e2] api.response POST /oms/product/line 200  18.617272ms 
+[2019/11/25 18:29:52.416204][i][48160b70f] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:29:52.416470][i][48160b70f] api.response OPTIONS /oms/product/line 200  294.804µs 
+[2019/11/25 18:29:52.428008][i][67d50a3de] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:29:52.428506][i][67d50a3de] --------添加产品线数据--------
+[2019/11/25 18:29:52.428508][i][67d50a3de] 1.参数校验
+[2019/11/25 18:29:52.428578][e][67d50a3de] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:29:52.428704][e][67d50a3de] api.response POST /oms/product/line 406  730.022µs 
+[2019/11/25 18:30:12.747898][i][1302b8615] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:30:12.748335][i][1302b8615] api.response OPTIONS /oms/product/line 200  474.033µs 
+[2019/11/25 18:30:12.760732][i][297141cf2] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:30:12.761496][i][297141cf2] --------添加产品线数据--------
+[2019/11/25 18:30:12.761506][i][297141cf2] 1.参数校验
+[2019/11/25 18:30:12.761585][e][297141cf2] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:30:12.761727][e][297141cf2] api.response POST /oms/product/line 406  1.030692ms 
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:37:06.297748][i][9342dcd03] api.request OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:37:06.297927][i][9342dcd03] api.response OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery 200  198.157µs 
+[2019/11/25 18:37:06.300044][i][8d2c9b087] api.request GET /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:37:06.300260][i][8d2c9b087] -------获取字典信息---------
+[2019/11/25 18:37:06.300261][i][8d2c9b087] 1: 验证参数
+[2019/11/25 18:37:06.300272][i][8d2c9b087] 2: 获取数据
+[2019/11/25 18:37:06.356237][i][8d2c9b087] 3: 返回数据
+[2019/11/25 18:37:06.356351][i][8d2c9b087] api.response GET /dds/dictionary/get?dic_type=CanPackageDelivery 200  56.325553ms 
+[2019/11/25 18:37:06.535035][i][b7684e317] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:37:06.535144][i][b7684e317] api.response OPTIONS /sso/member/menus/get 200  123.477µs 
+[2019/11/25 18:37:06.536445][i][394fee437] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:37:06.536609][i][394fee437] api.response OPTIONS /sso/system/info/get 200  198.793µs 
+[2019/11/25 18:37:06.539612][i][4403958cb] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:37:06.539718][i][4403958cb] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  120.983µs 
+[2019/11/25 18:37:06.623140][i][de300db60] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:37:06.623370][i][de300db60] -------去sso获取菜单数据---------
+[2019/11/25 18:37:06.623371][i][de300db60] 1: 获取登录用户信息
+[2019/11/25 18:37:06.623372][i][de300db60] 2: 远程获取菜单信息
+[2019/11/25 18:37:06.629308][i][26997ce49] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:37:06.629601][i][26997ce49] --------去sso获取系统信息----------
+[2019/11/25 18:37:06.629603][i][26997ce49] 1. 执行操作
+[2019/11/25 18:37:06.630320][i][d518abfc2] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:37:06.630530][i][d518abfc2] --------获取产品线数据列表--------
+[2019/11/25 18:37:06.630530][i][d518abfc2] 1.参数校验
+[2019/11/25 18:37:06.630556][i][d518abfc2] 2.执行操作
+[2019/11/25 18:37:06.636054][i][d518abfc2] 3.返回结果
+[2019/11/25 18:37:06.636398][i][d518abfc2] api.response GET /oms/product/line/query?pi=1&ps=10 200  6.091805ms 
+[2019/11/25 18:37:06.643823][i][26997ce49] 2. 返回数据
+[2019/11/25 18:37:06.643882][i][26997ce49] api.response GET /sso/system/info/get 200  14.596279ms 
+[2019/11/25 18:37:06.649741][i][de300db60] 3: 远程获取菜单信息
+[2019/11/25 18:37:06.649871][i][de300db60] api.response GET /sso/member/menus/get 200  26.745866ms 
+[2019/11/25 18:37:06.710733][i][30d042c55] api.request OPTIONS /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:37:06.710837][i][30d042c55] api.response OPTIONS /sso/member/systems/get 200  119.483µs 
+[2019/11/25 18:37:06.747611][i][b630b40f4] api.request GET /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:37:06.747807][i][b630b40f4] --------获取用户可用的其他系统--------
+[2019/11/25 18:37:06.747810][i][b630b40f4] 1.获取用户信息
+[2019/11/25 18:37:06.747811][i][b630b40f4] 2.获取数据
+[2019/11/25 18:37:06.757110][i][b630b40f4] 3.返回结果
+[2019/11/25 18:37:06.757182][i][b630b40f4] api.response GET /sso/member/systems/get 200  9.585677ms 
+[2019/11/25 18:37:06.765364][i][ab024bc58] api.request OPTIONS /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:37:06.765473][i][ab024bc58] api.response OPTIONS /dds/dictionary/get?dic_type=ChangeType 200  121.938µs 
+[2019/11/25 18:37:06.766822][i][008744673] api.request GET /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:37:06.767004][i][008744673] -------获取字典信息---------
+[2019/11/25 18:37:06.767005][i][008744673] 1: 验证参数
+[2019/11/25 18:37:06.767016][i][008744673] 2: 获取数据
+[2019/11/25 18:37:06.769600][i][008744673] 3: 返回数据
+[2019/11/25 18:37:06.769706][i][008744673] api.response GET /dds/dictionary/get?dic_type=ChangeType 200  2.899534ms 
+[2019/11/25 18:37:06.774341][i][4a42c6c7f] api.request OPTIONS /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:37:06.774439][i][4a42c6c7f] api.response OPTIONS /dds/dictionary/get?dic_type=AuditStatus 200  126.113µs 
+[2019/11/25 18:37:06.775752][i][074f6d127] api.request GET /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:37:06.775925][i][074f6d127] -------获取字典信息---------
+[2019/11/25 18:37:06.775926][i][074f6d127] 1: 验证参数
+[2019/11/25 18:37:06.775937][i][074f6d127] 2: 获取数据
+[2019/11/25 18:37:06.777749][i][074f6d127] 3: 返回数据
+[2019/11/25 18:37:06.777817][i][074f6d127] api.response GET /dds/dictionary/get?dic_type=AuditStatus 200  2.079409ms 
+[2019/11/25 18:37:06.873363][i][164c800eb] api.request OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:37:06.873493][i][164c800eb] api.response OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  144.957µs 
+[2019/11/25 18:37:06.907733][i][6b4332308] api.request GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:37:06.907950][i][6b4332308] --------获取发货人工审核表数据列表--------
+[2019/11/25 18:37:06.907951][i][6b4332308] 1.参数校验
+[2019/11/25 18:37:06.907980][i][6b4332308] 2.执行操作
+[2019/11/25 18:37:06.912675][i][6b4332308] 3.返回结果
+[2019/11/25 18:37:06.912801][i][6b4332308] api.response GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  5.081822ms 
+[2019/11/25 18:37:09.213122][i][0ff6ba96b] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:37:09.213314][i][0ff6ba96b] --------获取产品线数据列表--------
+[2019/11/25 18:37:09.213314][i][0ff6ba96b] 1.参数校验
+[2019/11/25 18:37:09.213337][i][0ff6ba96b] 2.执行操作
+[2019/11/25 18:37:09.218144][i][0ff6ba96b] 3.返回结果
+[2019/11/25 18:37:09.218344][i][0ff6ba96b] api.response GET /oms/product/line/query?pi=1&ps=10 200  5.236446ms 
+[2019/11/25 18:37:38.817056][i][cce5d103d] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:37:38.817422][i][cce5d103d] api.response OPTIONS /oms/product/line 200  407.576µs 
+[2019/11/25 18:37:38.825440][i][41df71500] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:37:38.825778][i][41df71500] --------添加产品线数据--------
+[2019/11/25 18:37:38.825780][i][41df71500] 1.参数校验
+[2019/11/25 18:37:38.825819][e][41df71500] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:37:38.825880][e][41df71500] api.response POST /oms/product/line 406  458.379µs 
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:39:17.618241][i][0288f40c4] api.request OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:39:17.618370][i][0288f40c4] api.response OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery 200  144.508µs 
+[2019/11/25 18:39:17.619708][i][0f342b29a] api.request GET /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:39:17.619892][i][0f342b29a] -------获取字典信息---------
+[2019/11/25 18:39:17.619893][i][0f342b29a] 1: 验证参数
+[2019/11/25 18:39:17.619903][i][0f342b29a] 2: 获取数据
+[2019/11/25 18:39:17.622082][i][0f342b29a] 3: 返回数据
+[2019/11/25 18:39:17.622140][i][0f342b29a] api.response GET /dds/dictionary/get?dic_type=CanPackageDelivery 200  2.446285ms 
+[2019/11/25 18:39:17.803293][i][8cbd2da96] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:39:17.803386][i][8cbd2da96] api.response OPTIONS /sso/member/menus/get 200  123.804µs 
+[2019/11/25 18:39:17.804158][i][7e9ee5b75] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:39:17.804269][i][7e9ee5b75] api.response OPTIONS /sso/system/info/get 200  121.612µs 
+[2019/11/25 18:39:17.807804][i][8f83e35e3] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:39:17.807903][i][8f83e35e3] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  116.205µs 
+[2019/11/25 18:39:17.844242][i][a2ece5e16] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:39:17.844533][i][a2ece5e16] -------去sso获取菜单数据---------
+[2019/11/25 18:39:17.844535][i][a2ece5e16] 1: 获取登录用户信息
+[2019/11/25 18:39:17.844536][i][a2ece5e16] 2: 远程获取菜单信息
+[2019/11/25 18:39:17.844854][i][6ae08fcd5] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:39:17.845030][i][6ae08fcd5] --------去sso获取系统信息----------
+[2019/11/25 18:39:17.845030][i][6ae08fcd5] 1. 执行操作
+[2019/11/25 18:39:17.845875][i][b365d84b8] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:39:17.846162][i][b365d84b8] --------获取产品线数据列表--------
+[2019/11/25 18:39:17.846162][i][b365d84b8] 1.参数校验
+[2019/11/25 18:39:17.846180][i][b365d84b8] 2.执行操作
+[2019/11/25 18:39:17.853322][i][b365d84b8] 3.返回结果
+[2019/11/25 18:39:17.853502][i][b365d84b8] api.response GET /oms/product/line/query?pi=1&ps=10 200  7.63888ms 
+[2019/11/25 18:39:17.858750][i][6ae08fcd5] 2. 返回数据
+[2019/11/25 18:39:17.858823][i][6ae08fcd5] api.response GET /sso/system/info/get 200  13.993517ms 
+[2019/11/25 18:39:17.865590][i][a2ece5e16] 3: 远程获取菜单信息
+[2019/11/25 18:39:17.865714][i][a2ece5e16] api.response GET /sso/member/menus/get 200  21.492077ms 
+[2019/11/25 18:39:17.918337][i][346fb7637] api.request OPTIONS /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:39:17.918432][i][346fb7637] api.response OPTIONS /sso/member/systems/get 200  107.589µs 
+[2019/11/25 18:39:17.948179][i][69a894207] api.request GET /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:39:17.948381][i][69a894207] --------获取用户可用的其他系统--------
+[2019/11/25 18:39:17.948383][i][69a894207] 1.获取用户信息
+[2019/11/25 18:39:17.948384][i][69a894207] 2.获取数据
+[2019/11/25 18:39:17.959993][i][69a894207] 3.返回结果
+[2019/11/25 18:39:17.960063][i][69a894207] api.response GET /sso/member/systems/get 200  11.899137ms 
+[2019/11/25 18:39:17.966498][i][63acdadaa] api.request OPTIONS /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:39:17.966602][i][63acdadaa] api.response OPTIONS /dds/dictionary/get?dic_type=ChangeType 200  135.293µs 
+[2019/11/25 18:39:17.968124][i][7c79de9de] api.request GET /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:39:17.968293][i][7c79de9de] -------获取字典信息---------
+[2019/11/25 18:39:17.968293][i][7c79de9de] 1: 验证参数
+[2019/11/25 18:39:17.968305][i][7c79de9de] 2: 获取数据
+[2019/11/25 18:39:17.970694][i][7c79de9de] 3: 返回数据
+[2019/11/25 18:39:17.970761][i][7c79de9de] api.response GET /dds/dictionary/get?dic_type=ChangeType 200  2.670102ms 
+[2019/11/25 18:39:17.974051][i][f2469b2b7] api.request OPTIONS /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:39:17.974187][i][f2469b2b7] api.response OPTIONS /dds/dictionary/get?dic_type=AuditStatus 200  150.549µs 
+[2019/11/25 18:39:17.975451][i][de3efc426] api.request GET /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:39:17.975663][i][de3efc426] -------获取字典信息---------
+[2019/11/25 18:39:17.975665][i][de3efc426] 1: 验证参数
+[2019/11/25 18:39:17.975676][i][de3efc426] 2: 获取数据
+[2019/11/25 18:39:17.977538][i][de3efc426] 3: 返回数据
+[2019/11/25 18:39:17.977684][i][de3efc426] api.response GET /dds/dictionary/get?dic_type=AuditStatus 200  2.243129ms 
+[2019/11/25 18:39:18.83272][i][fcde60aae] api.request OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:39:18.83421][i][fcde60aae] api.response OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  171.064µs 
+[2019/11/25 18:39:18.121117][i][a8d46bce8] api.request GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:39:18.121312][i][a8d46bce8] --------获取发货人工审核表数据列表--------
+[2019/11/25 18:39:18.121315][i][a8d46bce8] 1.参数校验
+[2019/11/25 18:39:18.121339][i][a8d46bce8] 2.执行操作
+[2019/11/25 18:39:18.126179][i][a8d46bce8] 3.返回结果
+[2019/11/25 18:39:18.126244][i][a8d46bce8] api.response GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  5.139567ms 
+[2019/11/25 18:39:19.336186][i][f9c538e2d] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:39:19.336360][i][f9c538e2d] --------获取产品线数据列表--------
+[2019/11/25 18:39:19.336361][i][f9c538e2d] 1.参数校验
+[2019/11/25 18:39:19.336378][i][f9c538e2d] 2.执行操作
+[2019/11/25 18:39:19.343078][i][f9c538e2d] 3.返回结果
+[2019/11/25 18:39:19.343290][i][f9c538e2d] api.response GET /oms/product/line/query?pi=1&ps=10 200  7.116826ms 
+[2019/11/25 18:39:25.573895][i][e1a23cf5a] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:39:25.574118][i][e1a23cf5a] api.response OPTIONS /oms/product/line 200  243.363µs 
+[2019/11/25 18:39:25.580111][i][10bd9a7a6] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:39:25.580453][i][10bd9a7a6] --------添加产品线数据--------
+[2019/11/25 18:39:25.580454][i][10bd9a7a6] 1.参数校验
+[2019/11/25 18:39:25.580485][e][10bd9a7a6] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:39:25.580541][e][10bd9a7a6] api.response POST /oms/product/line 406  447.039µs 
+[2019/11/25 18:39:55.860066][i][ba1710780] api.request OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:39:55.860256][i][ba1710780] api.response OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery 200  212.746µs 
+[2019/11/25 18:39:55.868003][i][e21ad0dd9] api.request GET /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:39:55.868215][i][e21ad0dd9] -------获取字典信息---------
+[2019/11/25 18:39:55.868216][i][e21ad0dd9] 1: 验证参数
+[2019/11/25 18:39:55.868226][i][e21ad0dd9] 2: 获取数据
+[2019/11/25 18:39:55.870838][i][e21ad0dd9] 3: 返回数据
+[2019/11/25 18:39:55.870907][i][e21ad0dd9] api.response GET /dds/dictionary/get?dic_type=CanPackageDelivery 200  2.920088ms 
+[2019/11/25 18:39:56.39652][i][4210f3250] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:39:56.39759][i][4210f3250] api.response OPTIONS /sso/member/menus/get 200  139.795µs 
+[2019/11/25 18:39:56.40752][i][3ecd32023] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:39:56.40850][i][3ecd32023] api.response OPTIONS /sso/system/info/get 200  110.79µs 
+[2019/11/25 18:39:56.44159][i][476fb997b] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:39:56.44261][i][476fb997b] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  121.029µs 
+[2019/11/25 18:39:56.72117][i][e91325d94] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:39:56.72341][i][e91325d94] -------去sso获取菜单数据---------
+[2019/11/25 18:39:56.72343][i][e91325d94] 1: 获取登录用户信息
+[2019/11/25 18:39:56.72344][i][e91325d94] 2: 远程获取菜单信息
+[2019/11/25 18:39:56.73088][i][a4741dd86] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:39:56.73301][i][a4741dd86] --------去sso获取系统信息----------
+[2019/11/25 18:39:56.73301][i][a4741dd86] 1. 执行操作
+[2019/11/25 18:39:56.75143][i][ee29e9214] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:39:56.75357][i][ee29e9214] --------获取产品线数据列表--------
+[2019/11/25 18:39:56.75358][i][ee29e9214] 1.参数校验
+[2019/11/25 18:39:56.75377][i][ee29e9214] 2.执行操作
+[2019/11/25 18:39:56.80764][i][ee29e9214] 3.返回结果
+[2019/11/25 18:39:56.81009][i][ee29e9214] api.response GET /oms/product/line/query?pi=1&ps=10 200  5.881935ms 
+[2019/11/25 18:39:56.82768][i][a4741dd86] 2. 返回数据
+[2019/11/25 18:39:56.82841][i][a4741dd86] api.response GET /sso/system/info/get 200  9.766904ms 
+[2019/11/25 18:39:56.87219][i][e91325d94] 3: 远程获取菜单信息
+[2019/11/25 18:39:56.87333][i][e91325d94] api.response GET /sso/member/menus/get 200  15.229693ms 
+[2019/11/25 18:39:56.165897][i][dfb82f4fe] api.request OPTIONS /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:39:56.166034][i][dfb82f4fe] api.response OPTIONS /sso/member/systems/get 200  157.766µs 
+[2019/11/25 18:39:56.200556][i][ac13a9403] api.request GET /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:39:56.200740][i][ac13a9403] --------获取用户可用的其他系统--------
+[2019/11/25 18:39:56.200742][i][ac13a9403] 1.获取用户信息
+[2019/11/25 18:39:56.200743][i][ac13a9403] 2.获取数据
+[2019/11/25 18:39:56.216097][i][ac13a9403] 3.返回结果
+[2019/11/25 18:39:56.216158][i][ac13a9403] api.response GET /sso/member/systems/get 200  15.615681ms 
+[2019/11/25 18:39:56.219425][i][0a57707dc] api.request OPTIONS /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:39:56.219526][i][0a57707dc] api.response OPTIONS /dds/dictionary/get?dic_type=ChangeType 200  116.097µs 
+[2019/11/25 18:39:56.221217][i][217c6a625] api.request GET /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:39:56.221395][i][217c6a625] -------获取字典信息---------
+[2019/11/25 18:39:56.221399][i][217c6a625] 1: 验证参数
+[2019/11/25 18:39:56.221410][i][217c6a625] 2: 获取数据
+[2019/11/25 18:39:56.224424][i][217c6a625] 3: 返回数据
+[2019/11/25 18:39:56.224505][i][217c6a625] api.response GET /dds/dictionary/get?dic_type=ChangeType 200  3.307297ms 
+[2019/11/25 18:39:56.231771][i][9e3a940d7] api.request OPTIONS /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:39:56.231866][i][9e3a940d7] api.response OPTIONS /dds/dictionary/get?dic_type=AuditStatus 200  110.006µs 
+[2019/11/25 18:39:56.233487][i][e9e95cf6a] api.request GET /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:39:56.233667][i][e9e95cf6a] -------获取字典信息---------
+[2019/11/25 18:39:56.233670][i][e9e95cf6a] 1: 验证参数
+[2019/11/25 18:39:56.233681][i][e9e95cf6a] 2: 获取数据
+[2019/11/25 18:39:56.236743][i][e9e95cf6a] 3: 返回数据
+[2019/11/25 18:39:56.236835][i][e9e95cf6a] api.response GET /dds/dictionary/get?dic_type=AuditStatus 200  3.362016ms 
+[2019/11/25 18:39:56.332880][i][fea0759d4] api.request OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:39:56.332976][i][fea0759d4] api.response OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  113.492µs 
+[2019/11/25 18:39:56.344616][i][85ae8527e] api.request GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:39:56.344853][i][85ae8527e] --------获取发货人工审核表数据列表--------
+[2019/11/25 18:39:56.344853][i][85ae8527e] 1.参数校验
+[2019/11/25 18:39:56.344893][i][85ae8527e] 2.执行操作
+[2019/11/25 18:39:56.354820][i][85ae8527e] 3.返回结果
+[2019/11/25 18:39:56.354894][i][85ae8527e] api.response GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  10.293013ms 
+[2019/11/25 18:39:57.440389][i][03db33cc5] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:39:57.440559][i][03db33cc5] --------获取产品线数据列表--------
+[2019/11/25 18:39:57.440563][i][03db33cc5] 1.参数校验
+[2019/11/25 18:39:57.440582][i][03db33cc5] 2.执行操作
+[2019/11/25 18:39:57.445476][i][03db33cc5] 3.返回结果
+[2019/11/25 18:39:57.445690][i][03db33cc5] api.response GET /oms/product/line/query?pi=1&ps=10 200  5.313833ms 
+[2019/11/25 18:40:04.793628][i][931edf7ad] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:40:04.793815][i][931edf7ad] api.response OPTIONS /oms/product/line 200  209.983µs 
+[2019/11/25 18:40:04.803692][i][a2e0e45e3] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:40:04.804147][i][a2e0e45e3] --------添加产品线数据--------
+[2019/11/25 18:40:04.804149][i][a2e0e45e3] 1.参数校验
+[2019/11/25 18:40:04.804179][e][a2e0e45e3] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:40:04.804230][e][a2e0e45e3] api.response POST /oms/product/line 406  555.135µs 
+[2019/11/25 18:43:18.671253][i][15005d1f6] apiserver 正在退出...
+[2019/11/25 18:43:18.698562][i][15005d1f6] apiserver 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:43:20.13181][i][16728e23d] Connected to 192.168.0.101:2181
+[2019/11/25 18:43:20.23139][i][16728e23d] authenticated: id=103116747297982572, timeout=4000
+[2019/11/25 18:43:20.23146][i][16728e23d] re-submitting `0` credentials after reconnect
+[2019/11/25 18:43:20.62113][i][16728e23d] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 18:43:20.76477][i][737e396fb] 开始启动[API]服务...
+[2019/11/25 18:43:20.155130][i][737e396fb] [启用 静态文件]
+[2019/11/25 18:43:20.155169][i][737e396fb] [启用 header设置]
+[2019/11/25 18:43:20.155175][d][737e396fb] [未启用 响应格式设置]
+[2019/11/25 18:43:20.155180][d][737e396fb] [未启用 熔断设置]
+[2019/11/25 18:43:20.155298][i][737e396fb] [启用 jwt设置]
+[2019/11/25 18:43:20.155317][d][737e396fb] [未启用 固定密钥认证]
+[2019/11/25 18:43:20.155328][d][737e396fb] [未启用 远程服务认证]
+[2019/11/25 18:43:20.155334][d][737e396fb] [未启用 ajax请求限制设置]
+[2019/11/25 18:43:20.155340][d][737e396fb] [未启用 metric设置]
+[2019/11/25 18:43:20.155343][d][737e396fb] [未启用 host设置]
+[2019/11/25 18:43:20.684296][i][737e396fb] 服务启动成功(API,http://192.168.4.172:9091,88)
+[2019/11/25 18:43:25.169500][i][ac25644cf] api.request OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:43:25.169696][i][ac25644cf] api.response OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery 200  212.12µs 
+[2019/11/25 18:43:25.171164][i][747b22bb6] api.request GET /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:43:25.171350][i][747b22bb6] -------获取字典信息---------
+[2019/11/25 18:43:25.171350][i][747b22bb6] 1: 验证参数
+[2019/11/25 18:43:25.171365][i][747b22bb6] 2: 获取数据
+[2019/11/25 18:43:25.174436][i][747b22bb6] 3: 返回数据
+[2019/11/25 18:43:25.174537][i][747b22bb6] api.response GET /dds/dictionary/get?dic_type=CanPackageDelivery 200  3.384758ms 
+[2019/11/25 18:43:25.352154][i][7fd16790f] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:43:25.352288][i][7fd16790f] api.response OPTIONS /sso/member/menus/get 200  156.334µs 
+[2019/11/25 18:43:25.353395][i][8adffdaaa] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:43:25.353507][i][8adffdaaa] api.response OPTIONS /sso/system/info/get 200  123.593µs 
+[2019/11/25 18:43:25.356063][i][fd3efe6c1] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:43:25.356191][i][fd3efe6c1] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  145.87µs 
+[2019/11/25 18:43:25.395817][i][5614c71f7] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:43:25.396045][i][5614c71f7] -------去sso获取菜单数据---------
+[2019/11/25 18:43:25.396053][i][5614c71f7] 1: 获取登录用户信息
+[2019/11/25 18:43:25.396054][i][5614c71f7] 2: 远程获取菜单信息
+[2019/11/25 18:43:25.396249][i][21d4ed3a7] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:43:25.396439][i][21d4ed3a7] --------去sso获取系统信息----------
+[2019/11/25 18:43:25.396440][i][21d4ed3a7] 1. 执行操作
+[2019/11/25 18:43:25.396875][i][cf8d5037f] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:43:25.397094][i][cf8d5037f] --------获取产品线数据列表--------
+[2019/11/25 18:43:25.397099][i][cf8d5037f] 1.参数校验
+[2019/11/25 18:43:25.397203][i][cf8d5037f] 2.执行操作
+[2019/11/25 18:43:25.403135][i][cf8d5037f] 3.返回结果
+[2019/11/25 18:43:25.403354][i][cf8d5037f] api.response GET /oms/product/line/query?pi=1&ps=10 200  6.506449ms 
+[2019/11/25 18:43:25.405721][i][21d4ed3a7] 2. 返回数据
+[2019/11/25 18:43:25.405798][i][21d4ed3a7] api.response GET /sso/system/info/get 200  9.555822ms 
+[2019/11/25 18:43:25.412081][i][5614c71f7] 3: 远程获取菜单信息
+[2019/11/25 18:43:25.412243][i][5614c71f7] api.response GET /sso/member/menus/get 200  16.438087ms 
+[2019/11/25 18:43:25.463269][i][e2003f7f9] api.request OPTIONS /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:43:25.463398][i][e2003f7f9] api.response OPTIONS /sso/member/systems/get 200  143.507µs 
+[2019/11/25 18:43:25.484546][i][635e4f42b] api.request GET /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:43:25.484748][i][635e4f42b] --------获取用户可用的其他系统--------
+[2019/11/25 18:43:25.484752][i][635e4f42b] 1.获取用户信息
+[2019/11/25 18:43:25.484756][i][635e4f42b] 2.获取数据
+[2019/11/25 18:43:25.499754][i][635e4f42b] 3.返回结果
+[2019/11/25 18:43:25.499900][i][635e4f42b] api.response GET /sso/member/systems/get 200  15.387196ms 
+[2019/11/25 18:43:25.529720][i][fbdf413c1] api.request OPTIONS /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:43:25.529833][i][fbdf413c1] api.response OPTIONS /dds/dictionary/get?dic_type=ChangeType 200  124.579µs 
+[2019/11/25 18:43:25.531530][i][c3d3c3bf8] api.request GET /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:43:25.531946][i][c3d3c3bf8] -------获取字典信息---------
+[2019/11/25 18:43:25.531947][i][c3d3c3bf8] 1: 验证参数
+[2019/11/25 18:43:25.531964][i][c3d3c3bf8] 2: 获取数据
+[2019/11/25 18:43:25.535104][i][c3d3c3bf8] 3: 返回数据
+[2019/11/25 18:43:25.535200][i][c3d3c3bf8] api.response GET /dds/dictionary/get?dic_type=ChangeType 200  3.682365ms 
+[2019/11/25 18:43:25.538520][i][8af305894] api.request OPTIONS /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:43:25.538618][i][8af305894] api.response OPTIONS /dds/dictionary/get?dic_type=AuditStatus 200  115.082µs 
+[2019/11/25 18:43:25.540245][i][fa0361232] api.request GET /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:43:25.540467][i][fa0361232] -------获取字典信息---------
+[2019/11/25 18:43:25.540473][i][fa0361232] 1: 验证参数
+[2019/11/25 18:43:25.540489][i][fa0361232] 2: 获取数据
+[2019/11/25 18:43:25.543346][i][fa0361232] 3: 返回数据
+[2019/11/25 18:43:25.543439][i][fa0361232] api.response GET /dds/dictionary/get?dic_type=AuditStatus 200  3.214079ms 
+[2019/11/25 18:43:25.631150][i][0e5601386] api.request OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:43:25.631294][i][0e5601386] api.response OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  160.449µs 
+[2019/11/25 18:43:25.645773][i][b3f592acd] api.request GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:43:25.646023][i][b3f592acd] --------获取发货人工审核表数据列表--------
+[2019/11/25 18:43:25.646024][i][b3f592acd] 1.参数校验
+[2019/11/25 18:43:25.646065][i][b3f592acd] 2.执行操作
+[2019/11/25 18:43:25.650517][i][b3f592acd] 3.返回结果
+[2019/11/25 18:43:25.650584][i][b3f592acd] api.response GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  4.844701ms 
+[2019/11/25 18:43:26.822380][i][f9bfe5f37] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:43:26.822606][i][f9bfe5f37] --------获取产品线数据列表--------
+[2019/11/25 18:43:26.822610][i][f9bfe5f37] 1.参数校验
+[2019/11/25 18:43:26.822628][i][f9bfe5f37] 2.执行操作
+[2019/11/25 18:43:26.830238][i][f9bfe5f37] 3.返回结果
+[2019/11/25 18:43:26.830415][i][f9bfe5f37] api.response GET /oms/product/line/query?pi=1&ps=10 200  8.05044ms 
+[2019/11/25 18:43:30.71279][i][da626a8d5] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:43:30.71776][i][da626a8d5] api.response OPTIONS /oms/product/line 200  543.141µs 
+[2019/11/25 18:43:30.85447][i][022168492] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:43:30.86239][i][022168492] --------添加产品线数据--------
+[2019/11/25 18:43:30.86251][i][022168492] 1.参数校验
+[2019/11/25 18:43:30.86384][e][022168492] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:43:30.86581][e][022168492] api.response POST /oms/product/line 406  1.188803ms 
+[2019/11/25 18:43:56.223081][i][16728e23d] apiserver 正在退出...
+[2019/11/25 18:43:56.254044][i][16728e23d] apiserver 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:44:05.805511][i][c1d1815de] Connected to 192.168.0.101:2181
+[2019/11/25 18:44:05.814366][i][c1d1815de] authenticated: id=103116747297982573, timeout=4000
+[2019/11/25 18:44:05.814375][i][c1d1815de] re-submitting `0` credentials after reconnect
+[2019/11/25 18:44:05.854553][i][c1d1815de] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 18:44:05.868641][i][3efb89201] 开始启动[API]服务...
+[2019/11/25 18:44:05.991264][i][3efb89201] [启用 静态文件]
+[2019/11/25 18:44:05.991306][i][3efb89201] [启用 header设置]
+[2019/11/25 18:44:05.991310][d][3efb89201] [未启用 响应格式设置]
+[2019/11/25 18:44:05.991315][d][3efb89201] [未启用 熔断设置]
+[2019/11/25 18:44:05.991430][i][3efb89201] [启用 jwt设置]
+[2019/11/25 18:44:05.991452][d][3efb89201] [未启用 固定密钥认证]
+[2019/11/25 18:44:05.991462][d][3efb89201] [未启用 远程服务认证]
+[2019/11/25 18:44:05.991467][d][3efb89201] [未启用 ajax请求限制设置]
+[2019/11/25 18:44:05.991474][d][3efb89201] [未启用 metric设置]
+[2019/11/25 18:44:05.991477][d][3efb89201] [未启用 host设置]
+[2019/11/25 18:44:06.513635][i][3efb89201] 服务启动成功(API,http://192.168.4.172:9091,88)
+[2019/11/25 18:44:10.124424][i][9abc156df] api.request OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:44:10.124646][i][9abc156df] api.response OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery 200  235.849µs 
+[2019/11/25 18:44:10.127248][i][45601046d] api.request GET /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:44:10.127467][i][45601046d] -------获取字典信息---------
+[2019/11/25 18:44:10.127468][i][45601046d] 1: 验证参数
+[2019/11/25 18:44:10.127480][i][45601046d] 2: 获取数据
+[2019/11/25 18:44:10.130998][i][45601046d] 3: 返回数据
+[2019/11/25 18:44:10.131091][i][45601046d] api.response GET /dds/dictionary/get?dic_type=CanPackageDelivery 200  3.859352ms 
+[2019/11/25 18:44:10.312308][i][3169dad61] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:44:10.312434][i][3169dad61] api.response OPTIONS /sso/member/menus/get 200  148.747µs 
+[2019/11/25 18:44:10.313263][i][25b78e7d1] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:44:10.313384][i][25b78e7d1] api.response OPTIONS /sso/system/info/get 200  140.953µs 
+[2019/11/25 18:44:10.315598][i][dee353639] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:44:10.315731][i][dee353639] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  146.741µs 
+[2019/11/25 18:44:10.332136][i][558dfefa9] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:44:10.332363][i][558dfefa9] -------去sso获取菜单数据---------
+[2019/11/25 18:44:10.332364][i][558dfefa9] 1: 获取登录用户信息
+[2019/11/25 18:44:10.332364][i][558dfefa9] 2: 远程获取菜单信息
+[2019/11/25 18:44:10.332682][i][96fb9f45d] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:44:10.332865][i][96fb9f45d] --------去sso获取系统信息----------
+[2019/11/25 18:44:10.332866][i][96fb9f45d] 1. 执行操作
+[2019/11/25 18:44:10.334434][i][358d33501] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:44:10.334681][i][358d33501] --------获取产品线数据列表--------
+[2019/11/25 18:44:10.334682][i][358d33501] 1.参数校验
+[2019/11/25 18:44:10.334740][i][358d33501] 2.执行操作
+[2019/11/25 18:44:10.343283][i][96fb9f45d] 2. 返回数据
+[2019/11/25 18:44:10.343607][i][96fb9f45d] api.response GET /sso/system/info/get 200  10.930624ms 
+[2019/11/25 18:44:10.343938][i][358d33501] 3.返回结果
+[2019/11/25 18:44:10.344186][i][358d33501] api.response GET /oms/product/line/query?pi=1&ps=10 200  9.769061ms 
+[2019/11/25 18:44:10.349823][i][558dfefa9] 3: 远程获取菜单信息
+[2019/11/25 18:44:10.349967][i][558dfefa9] api.response GET /sso/member/menus/get 200  17.841741ms 
+[2019/11/25 18:44:10.429293][i][234fc3f9f] api.request OPTIONS /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:44:10.429443][i][234fc3f9f] api.response OPTIONS /sso/member/systems/get 200  165.603µs 
+[2019/11/25 18:44:10.465900][i][02316baf6] api.request GET /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:44:10.466099][i][02316baf6] --------获取用户可用的其他系统--------
+[2019/11/25 18:44:10.466101][i][02316baf6] 1.获取用户信息
+[2019/11/25 18:44:10.466102][i][02316baf6] 2.获取数据
+[2019/11/25 18:44:10.475413][i][02316baf6] 3.返回结果
+[2019/11/25 18:44:10.475504][i][02316baf6] api.response GET /sso/member/systems/get 200  9.620436ms 
+[2019/11/25 18:44:10.483698][i][8b5bbe4e9] api.request OPTIONS /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:44:10.483795][i][8b5bbe4e9] api.response OPTIONS /dds/dictionary/get?dic_type=ChangeType 200  111.347µs 
+[2019/11/25 18:44:10.485562][i][af97212e4] api.request GET /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:44:10.485799][i][af97212e4] -------获取字典信息---------
+[2019/11/25 18:44:10.485800][i][af97212e4] 1: 验证参数
+[2019/11/25 18:44:10.485813][i][af97212e4] 2: 获取数据
+[2019/11/25 18:44:10.488137][i][af97212e4] 3: 返回数据
+[2019/11/25 18:44:10.488223][i][af97212e4] api.response GET /dds/dictionary/get?dic_type=ChangeType 200  2.680906ms 
+[2019/11/25 18:44:10.495607][i][d3a8e916f] api.request OPTIONS /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:44:10.495708][i][d3a8e916f] api.response OPTIONS /dds/dictionary/get?dic_type=AuditStatus 200  121.217µs 
+[2019/11/25 18:44:10.497506][i][27fd02dcd] api.request GET /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:44:10.497692][i][27fd02dcd] -------获取字典信息---------
+[2019/11/25 18:44:10.497695][i][27fd02dcd] 1: 验证参数
+[2019/11/25 18:44:10.497705][i][27fd02dcd] 2: 获取数据
+[2019/11/25 18:44:10.499728][i][27fd02dcd] 3: 返回数据
+[2019/11/25 18:44:10.499828][i][27fd02dcd] api.response GET /dds/dictionary/get?dic_type=AuditStatus 200  2.33416ms 
+[2019/11/25 18:44:10.631001][i][09ca70884] api.request OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:44:10.631142][i][09ca70884] api.response OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  161.793µs 
+[2019/11/25 18:44:10.649930][i][769bd505f] api.request GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:44:10.650128][i][769bd505f] --------获取发货人工审核表数据列表--------
+[2019/11/25 18:44:10.650129][i][769bd505f] 1.参数校验
+[2019/11/25 18:44:10.650157][i][769bd505f] 2.执行操作
+[2019/11/25 18:44:10.655130][i][769bd505f] 3.返回结果
+[2019/11/25 18:44:10.655201][i][769bd505f] api.response GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  5.285957ms 
+[2019/11/25 18:44:13.252083][i][719420001] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:44:13.252268][i][719420001] --------获取产品线数据列表--------
+[2019/11/25 18:44:13.252271][i][719420001] 1.参数校验
+[2019/11/25 18:44:13.252306][i][719420001] 2.执行操作
+[2019/11/25 18:44:13.257382][i][719420001] 3.返回结果
+[2019/11/25 18:44:13.257557][i][719420001] api.response GET /oms/product/line/query?pi=1&ps=10 200  5.510067ms 
+[2019/11/25 18:44:16.585506][i][dff161b55] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:44:16.585677][i][dff161b55] api.response OPTIONS /oms/product/line 200  186.475µs 
+[2019/11/25 18:44:16.587395][i][dfbef6f33] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:44:16.587591][i][dfbef6f33] --------添加产品线数据--------
+[2019/11/25 18:44:16.587592][i][dfbef6f33] 1.参数校验
+[2019/11/25 18:44:16.587594][i][dfbef6f33] 
+[2019/11/25 18:44:16.587622][e][dfbef6f33] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:44:16.587670][e][dfbef6f33] api.response POST /oms/product/line 406  287.664µs 
+[2019/11/25 18:46:57.24332][i][b2244d424] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:46:57.24659][i][b2244d424] api.response OPTIONS /oms/product/line 200  362.133µs 
+[2019/11/25 18:46:57.39664][i][626ffddc3] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:46:57.41198][i][626ffddc3] --------添加产品线数据--------
+[2019/11/25 18:46:57.41200][i][626ffddc3] 1.参数校验
+[2019/11/25 18:46:57.41210][i][626ffddc3] 
+[2019/11/25 18:46:57.41247][e][626ffddc3] error:输入参数有误 can_package_delivery: non zero value required
+[2019/11/25 18:46:57.41309][e][626ffddc3] api.response POST /oms/product/line 406  1.66406ms 
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:51:46.608417][i][c1d1815de] apiserver 正在退出...
+[2019/11/25 18:51:46.638269][i][c1d1815de] apiserver 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:51:56.688984][i][433600e13] Connected to 192.168.0.101:2181
+[2019/11/25 18:51:56.701453][i][433600e13] authenticated: id=103116747297982574, timeout=4000
+[2019/11/25 18:51:56.701461][i][433600e13] re-submitting `0` credentials after reconnect
+[2019/11/25 18:51:56.738124][i][433600e13] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 18:51:56.752947][i][aed288450] 开始启动[API]服务...
+[2019/11/25 18:51:56.847687][i][aed288450] [启用 静态文件]
+[2019/11/25 18:51:56.847899][i][aed288450] [启用 header设置]
+[2019/11/25 18:51:56.847917][d][aed288450] [未启用 响应格式设置]
+[2019/11/25 18:51:56.847924][d][aed288450] [未启用 熔断设置]
+[2019/11/25 18:51:56.848209][i][aed288450] [启用 jwt设置]
+[2019/11/25 18:51:56.848249][d][aed288450] [未启用 固定密钥认证]
+[2019/11/25 18:51:56.848267][d][aed288450] [未启用 远程服务认证]
+[2019/11/25 18:51:56.848392][d][aed288450] [未启用 ajax请求限制设置]
+[2019/11/25 18:51:56.848407][d][aed288450] [未启用 metric设置]
+[2019/11/25 18:51:56.848412][d][aed288450] [未启用 host设置]
+[2019/11/25 18:51:57.369897][i][aed288450] 服务启动成功(API,http://192.168.4.172:9091,88)
+[2019/11/25 18:52:25.368169][i][433600e13] apiserver 正在退出...
+[2019/11/25 18:52:25.405371][i][433600e13] apiserver 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2019/11/25 18:52:35.263174][i][78c1d3e2a] Connected to 192.168.0.101:2181
+[2019/11/25 18:52:35.279231][i][78c1d3e2a] authenticated: id=103116747297982575, timeout=4000
+[2019/11/25 18:52:35.279241][i][78c1d3e2a] re-submitting `0` credentials after reconnect
+[2019/11/25 18:52:35.312433][i][78c1d3e2a] 初始化 /oms_t_debug/omsadmin/api/4.172
+[2019/11/25 18:52:35.328349][i][0af69dd02] 开始启动[API]服务...
+[2019/11/25 18:52:35.449530][i][0af69dd02] [启用 静态文件]
+[2019/11/25 18:52:35.449553][i][0af69dd02] [启用 header设置]
+[2019/11/25 18:52:35.449556][d][0af69dd02] [未启用 响应格式设置]
+[2019/11/25 18:52:35.449560][d][0af69dd02] [未启用 熔断设置]
+[2019/11/25 18:52:35.449618][i][0af69dd02] [启用 jwt设置]
+[2019/11/25 18:52:35.449628][d][0af69dd02] [未启用 固定密钥认证]
+[2019/11/25 18:52:35.449636][d][0af69dd02] [未启用 远程服务认证]
+[2019/11/25 18:52:35.449639][d][0af69dd02] [未启用 ajax请求限制设置]
+[2019/11/25 18:52:35.449643][d][0af69dd02] [未启用 metric设置]
+[2019/11/25 18:52:35.449645][d][0af69dd02] [未启用 host设置]
+[2019/11/25 18:52:35.983624][i][0af69dd02] 服务启动成功(API,http://192.168.4.172:9091,88)
+[2019/11/25 18:53:54.963701][i][e2096d9d5] api.request OPTIONS /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:53:54.963940][i][e2096d9d5] api.response OPTIONS /sso/member/menus/get 200  269.922µs 
+[2019/11/25 18:53:54.964994][i][33e395161] api.request OPTIONS /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:53:54.965189][i][33e395161] api.response OPTIONS /sso/system/info/get 200  215.244µs 
+[2019/11/25 18:53:54.988531][i][e41d4b86b] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:53:54.988567][e][e41d4b86b] token contains an invalid number of segments
+[2019/11/25 18:53:54.988590][e][e41d4b86b] api.response GET /sso/member/menus/get 403  94.743µs 
+[2019/11/25 18:53:54.989191][i][aa25dc61f] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:53:54.989236][e][aa25dc61f] token contains an invalid number of segments
+[2019/11/25 18:53:54.989258][e][aa25dc61f] api.response GET /sso/system/info/get 403  78.713µs 
+[2019/11/25 18:53:55.543323][i][f32c54a55] api.request OPTIONS /sso/login/verify from 192.168.4.172
+[2019/11/25 18:53:55.543465][i][f32c54a55] api.response OPTIONS /sso/login/verify 200  157.575µs 
+[2019/11/25 18:53:55.546097][i][7db59c477] api.request POST /sso/login/verify from 192.168.4.172
+[2019/11/25 18:53:55.546271][i][7db59c477] -------sso登录后去取登录用户---------
+[2019/11/25 18:53:55.546272][i][7db59c477] 1: 验证参数
+[2019/11/25 18:53:55.546276][i][7db59c477] 2: 调用sso api 用code取用户信息
+[2019/11/25 18:53:55.583034][i][7db59c477] data: &{10740 luyue 管理员 743 oms_t 0 0 http://192.168.4.172:8085/ssocallback }
+[2019/11/25 18:53:55.583036][i][7db59c477] 3: 返回用户数据
+[2019/11/25 18:53:55.583098][i][7db59c477] api.response POST /sso/login/verify 200  37.04287ms 
+[2019/11/25 18:53:55.874827][i][37b028f8b] api.request GET /sso/member/menus/get from 192.168.4.172
+[2019/11/25 18:53:55.875024][i][37b028f8b] -------去sso获取菜单数据---------
+[2019/11/25 18:53:55.875025][i][37b028f8b] 1: 获取登录用户信息
+[2019/11/25 18:53:55.875025][i][37b028f8b] 2: 远程获取菜单信息
+[2019/11/25 18:53:55.875265][i][caa314622] api.request GET /sso/system/info/get from 192.168.4.172
+[2019/11/25 18:53:55.875429][i][caa314622] --------去sso获取系统信息----------
+[2019/11/25 18:53:55.875429][i][caa314622] 1. 执行操作
+[2019/11/25 18:53:55.884649][i][caa314622] 2. 返回数据
+[2019/11/25 18:53:55.884716][i][caa314622] api.response GET /sso/system/info/get 200  9.460877ms 
+[2019/11/25 18:53:55.894458][i][37b028f8b] 3: 远程获取菜单信息
+[2019/11/25 18:53:55.894598][i][37b028f8b] api.response GET /sso/member/menus/get 200  19.785762ms 
+[2019/11/25 18:53:55.904530][i][86acfb43c] api.request OPTIONS /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:53:55.904706][i][86acfb43c] api.response OPTIONS /sso/member/systems/get 200  194.748µs 
+[2019/11/25 18:53:55.921133][i][ebd13623a] api.request GET /sso/member/systems/get from 192.168.4.172
+[2019/11/25 18:53:55.921312][i][ebd13623a] --------获取用户可用的其他系统--------
+[2019/11/25 18:53:55.921315][i][ebd13623a] 1.获取用户信息
+[2019/11/25 18:53:55.921316][i][ebd13623a] 2.获取数据
+[2019/11/25 18:53:55.930813][i][ebd13623a] 3.返回结果
+[2019/11/25 18:53:55.930894][i][ebd13623a] api.response GET /sso/member/systems/get 200  9.776042ms 
+[2019/11/25 18:53:55.942648][i][702633f66] api.request OPTIONS /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:53:55.942775][i][702633f66] api.response OPTIONS /dds/dictionary/get?dic_type=ChangeType 200  144.342µs 
+[2019/11/25 18:53:55.944249][i][4dcf62ab9] api.request GET /dds/dictionary/get?dic_type=ChangeType from 192.168.4.172
+[2019/11/25 18:53:55.944496][i][4dcf62ab9] -------获取字典信息---------
+[2019/11/25 18:53:55.944497][i][4dcf62ab9] 1: 验证参数
+[2019/11/25 18:53:55.944511][i][4dcf62ab9] 2: 获取数据
+[2019/11/25 18:53:55.947358][i][4dcf62ab9] 3: 返回数据
+[2019/11/25 18:53:55.947467][i][4dcf62ab9] api.response GET /dds/dictionary/get?dic_type=ChangeType 200  3.239551ms 
+[2019/11/25 18:53:55.951142][i][cfcb7bc06] api.request OPTIONS /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:53:55.951238][i][cfcb7bc06] api.response OPTIONS /dds/dictionary/get?dic_type=AuditStatus 200  112.5µs 
+[2019/11/25 18:53:55.952314][i][a0c5be880] api.request GET /dds/dictionary/get?dic_type=AuditStatus from 192.168.4.172
+[2019/11/25 18:53:55.952479][i][a0c5be880] -------获取字典信息---------
+[2019/11/25 18:53:55.952482][i][a0c5be880] 1: 验证参数
+[2019/11/25 18:53:55.952491][i][a0c5be880] 2: 获取数据
+[2019/11/25 18:53:55.954447][i][a0c5be880] 3: 返回数据
+[2019/11/25 18:53:55.954554][i][a0c5be880] api.response GET /dds/dictionary/get?dic_type=AuditStatus 200  2.254994ms 
+[2019/11/25 18:53:56.102744][i][75e50d89c] api.request OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:53:56.102865][i][75e50d89c] api.response OPTIONS /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  135.583µs 
+[2019/11/25 18:53:56.114037][i][324431e6b] api.request GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 from 192.168.4.172
+[2019/11/25 18:53:56.114268][i][324431e6b] --------获取发货人工审核表数据列表--------
+[2019/11/25 18:53:56.114268][i][324431e6b] 1.参数校验
+[2019/11/25 18:53:56.114346][i][324431e6b] 2.执行操作
+[2019/11/25 18:53:56.118787][i][324431e6b] 3.返回结果
+[2019/11/25 18:53:56.118855][i][324431e6b] api.response GET /oms/audit/info/query?pi=1&ps=10&create_time=2019-11-25+00:00:00 200  4.838027ms 
+[2019/11/25 18:54:16.20699][i][077041ea4] api.request OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:54:16.20911][i][077041ea4] api.response OPTIONS /dds/dictionary/get?dic_type=CanPackageDelivery 200  235.089µs 
+[2019/11/25 18:54:16.22330][i][5190c831f] api.request GET /dds/dictionary/get?dic_type=CanPackageDelivery from 192.168.4.172
+[2019/11/25 18:54:16.22630][i][5190c831f] -------获取字典信息---------
+[2019/11/25 18:54:16.22631][i][5190c831f] 1: 验证参数
+[2019/11/25 18:54:16.22647][i][5190c831f] 2: 获取数据
+[2019/11/25 18:54:16.25434][i][5190c831f] 3: 返回数据
+[2019/11/25 18:54:16.25544][i][5190c831f] api.response GET /dds/dictionary/get?dic_type=CanPackageDelivery 200  3.236541ms 
+[2019/11/25 18:54:16.126598][i][2aa85ec32] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:54:16.126728][i][2aa85ec32] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  144.485µs 
+[2019/11/25 18:54:16.134214][i][e7a04feeb] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:54:16.134455][i][e7a04feeb] --------获取产品线数据列表--------
+[2019/11/25 18:54:16.134459][i][e7a04feeb] 1.参数校验
+[2019/11/25 18:54:16.134482][i][e7a04feeb] 2.执行操作
+[2019/11/25 18:54:16.144747][i][e7a04feeb] 3.返回结果
+[2019/11/25 18:54:16.144928][i][e7a04feeb] api.response GET /oms/product/line/query?pi=1&ps=10 200  10.731111ms 
+[2019/11/25 18:54:19.302296][i][bb616b746] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:54:19.302436][i][bb616b746] api.response OPTIONS /oms/product/line 200  154.72µs 
+[2019/11/25 18:54:19.306642][i][acfdb91b5] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:54:19.306832][i][acfdb91b5] --------添加产品线数据--------
+[2019/11/25 18:54:19.306833][i][acfdb91b5] 1.参数校验
+[2019/11/25 18:54:19.306837][i][acfdb91b5] 
+[2019/11/25 18:54:19.306863][i][acfdb91b5] 2.执行操作
+[2019/11/25 18:54:19.337556][i][acfdb91b5] 3.返回结果
+[2019/11/25 18:54:19.337880][i][acfdb91b5] api.response POST /oms/product/line 200  31.244658ms 
+[2019/11/25 18:54:33.485712][i][ade5c0cfe] api.request OPTIONS /oms/product/line from 192.168.4.172
+[2019/11/25 18:54:33.486226][i][ade5c0cfe] api.response OPTIONS /oms/product/line 200  548.517µs 
+[2019/11/25 18:54:33.499014][i][79b7a4e6d] api.request POST /oms/product/line from 192.168.4.172
+[2019/11/25 18:54:33.499736][i][79b7a4e6d] --------添加产品线数据--------
+[2019/11/25 18:54:33.499738][i][79b7a4e6d] 1.参数校验
+[2019/11/25 18:54:33.499746][i][79b7a4e6d] 
+[2019/11/25 18:54:33.499798][i][79b7a4e6d] 2.执行操作
+[2019/11/25 18:54:33.510936][i][79b7a4e6d] 3.返回结果
+[2019/11/25 18:54:33.511067][i][79b7a4e6d] api.response POST /oms/product/line 200  12.10989ms 
+[2019/11/25 18:54:38.445548][i][603dda4e2] api.request OPTIONS /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:54:38.445960][i][603dda4e2] api.response OPTIONS /oms/product/line/query?pi=1&ps=10 200  467.401µs 
+[2019/11/25 18:54:38.458416][i][0d5a75e46] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:54:38.459090][i][0d5a75e46] --------获取产品线数据列表--------
+[2019/11/25 18:54:38.459093][i][0d5a75e46] 1.参数校验
+[2019/11/25 18:54:38.459150][i][0d5a75e46] 2.执行操作
+[2019/11/25 18:54:38.476060][i][0d5a75e46] 3.返回结果
+[2019/11/25 18:54:38.476557][i][0d5a75e46] api.response GET /oms/product/line/query?pi=1&ps=10 200  18.196495ms 
+[2019/11/25 18:54:39.811283][i][2eadd7bf4] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:54:39.812191][i][2eadd7bf4] --------获取产品线数据列表--------
+[2019/11/25 18:54:39.812203][i][2eadd7bf4] 1.参数校验
+[2019/11/25 18:54:39.812284][i][2eadd7bf4] 2.执行操作
+[2019/11/25 18:54:39.819486][i][2eadd7bf4] 3.返回结果
+[2019/11/25 18:54:39.820063][i][2eadd7bf4] api.response GET /oms/product/line/query?pi=1&ps=10 200  8.864221ms 
+[2019/11/25 18:54:40.16839][i][613a83a32] api.request GET /oms/product/line/query?pi=1&ps=10 from 192.168.4.172
+[2019/11/25 18:54:40.17281][i][613a83a32] --------获取产品线数据列表--------
+[2019/11/25 18:54:40.17285][i][613a83a32] 1.参数校验
+[2019/11/25 18:54:40.17329][i][613a83a32] 2.执行操作
+[2019/11/25 18:54:40.24260][i][613a83a32] 3.返回结果
+[2019/11/25 18:54:40.24564][i][613a83a32] api.response GET /oms/product/line/query?pi=1&ps=10 200  7.759042ms 
+
+---------------------end-------------------------

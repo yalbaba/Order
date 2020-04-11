@@ -1,0 +1,230 @@
+
+--------------------begin------------------------
+
+[2020/04/01 18:27:59.258393][i][f0d9ef96c] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:37100->192.168.0.101:2181: i/o timeout
+[2020/04/01 18:27:59.258395][i][f0d9ef96c] send loop terminated: err=write tcp 192.168.5.62:37100->192.168.0.101:2181: write: broken pipe
+[2020/04/01 18:27:59.979361][w][f0d9ef96c] zk已断开连接:[192.168.0.101]
+[2020/04/01 18:28:03.181032][i][f0d9ef96c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 18:28:04.181545][i][f0d9ef96c] Connected to 192.168.0.101:2181
+[2020/04/01 18:28:04.227927][i][f0d9ef96c] authentication failed: zk: session has been expired by the server
+[2020/04/01 18:28:04.228041][w][f0d9ef96c] zk已断开连接:[192.168.0.101]
+[2020/04/01 18:28:05.228532][i][f0d9ef96c] Connected to 192.168.0.101:2181
+[2020/04/01 18:28:05.243861][i][f0d9ef96c] authenticated: id=103610669116168736, timeout=4000
+[2020/04/01 18:28:05.243877][i][f0d9ef96c] re-submitting `0` credentials after reconnect
+[2020/04/01 18:28:06.212496][i][8c953aeaa] 开始启动[API]服务...
+[2020/04/01 18:28:06.903618][e][8c953aeaa] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/04/01 18:35:41.700627][i][f0d9ef96c] oms-api 正在退出...
+[2020/04/01 18:35:41.736939][i][f0d9ef96c] oms-api 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/04/01 18:37:38.858432][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 18:37:38.872437][i][39d0bff3f] authenticated: id=103610669116168745, timeout=4000
+[2020/04/01 18:37:38.872441][i][39d0bff3f] re-submitting `0` credentials after reconnect
+[2020/04/01 18:37:38.890041][i][39d0bff3f] 初始化 /oms_t_debug/omsadmin/api/5.62
+[2020/04/01 18:37:39.16483][i][28eda1e0d] 开始启动[API]服务...
+[2020/04/01 18:37:39.16597][e][28eda1e0d] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/04/01 19:44:18.272762][i][39d0bff3f] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:48060->192.168.0.101:2181: i/o timeout
+[2020/04/01 19:44:18.272764][i][39d0bff3f] send loop terminated: err=write tcp 192.168.5.62:48060->192.168.0.101:2181: write: broken pipe
+[2020/04/01 19:44:20.193600][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 19:44:29.385450][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 19:44:38.623697][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 19:44:39.792024][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 19:44:40.576355][i][39d0bff3f] authentication failed: zk: session has been expired by the server
+[2020/04/01 19:44:40.632702][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 19:44:41.633056][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 19:44:41.642081][i][39d0bff3f] authenticated: id=103610669116168930, timeout=4000
+[2020/04/01 19:44:41.642119][i][39d0bff3f] re-submitting `0` credentials after reconnect
+[2020/04/01 19:44:42.481904][i][4d3db3cdd] 开始启动[API]服务...
+[2020/04/01 19:44:42.712470][e][4d3db3cdd] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/04/01 20:10:21.15527][i][39d0bff3f] send loop terminated: err=write tcp 192.168.5.62:53022->192.168.0.101:2181: write: broken pipe
+[2020/04/01 20:10:21.15528][i][39d0bff3f] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:53022->192.168.0.101:2181: i/o timeout
+[2020/04/01 20:10:21.779773][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 20:10:23.501061][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 20:10:23.550772][i][39d0bff3f] authentication failed: zk: session has been expired by the server
+[2020/04/01 20:10:23.558866][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 20:10:24.945456][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 20:10:24.973515][i][39d0bff3f] authenticated: id=103610669116169125, timeout=4000
+[2020/04/01 20:10:24.973564][i][39d0bff3f] re-submitting `0` credentials after reconnect
+[2020/04/01 20:10:27.768367][i][a23a74e5f] 开始启动[API]服务...
+[2020/04/01 20:10:28.879919][e][a23a74e5f] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/04/01 21:05:29.650547][i][39d0bff3f] recv loop terminated: err=failed to read from connection: EOF
+[2020/04/01 21:05:33.468682][i][39d0bff3f] send loop terminated: err=write tcp 192.168.5.62:53226->192.168.0.101:2181: i/o timeout
+[2020/04/01 21:05:42.564051][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 21:06:08.253941][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:06:11.251731][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 21:06:12.669996][i][39d0bff3f] authentication failed: zk: session has been expired by the server
+[2020/04/01 21:06:13.47913][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 21:06:13.686398][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 21:06:13.729718][i][39d0bff3f] authenticated: id=103610669116169526, timeout=4000
+[2020/04/01 21:06:13.735944][i][39d0bff3f] re-submitting `0` credentials after reconnect
+[2020/04/01 21:06:19.825356][i][78d50d1cf] 开始启动[API]服务...
+[2020/04/01 21:06:20.590565][e][78d50d1cf] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/04/01 21:09:58.832963][i][39d0bff3f] send loop terminated: err=write tcp 192.168.5.62:53760->192.168.0.101:2181: write: broken pipe
+[2020/04/01 21:09:58.886520][i][39d0bff3f] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:53760->192.168.0.101:2181: i/o timeout
+[2020/04/01 21:10:00.23740][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 21:10:01.161360][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:10:03.837591][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:10:04.911627][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 21:10:12.216691][i][39d0bff3f] authentication failed: zk: session has been expired by the server
+[2020/04/01 21:10:14.394815][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 21:10:14.726594][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 21:10:15.384037][i][39d0bff3f] authenticated: id=103610669116169561, timeout=4000
+[2020/04/01 21:10:15.384051][i][39d0bff3f] re-submitting `0` credentials after reconnect
+[2020/04/01 21:10:15.526064][i][637b18893] 开始启动[API]服务...
+[2020/04/01 21:10:15.596217][e][637b18893] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+[2020/04/01 21:10:58.133895][i][39d0bff3f] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:53808->192.168.0.101:2181: i/o timeout
+[2020/04/01 21:10:58.323382][i][39d0bff3f] send loop terminated: err=<nil>
+[2020/04/01 21:10:59.517610][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 21:11:03.377549][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:11:08.54338][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:11:17.965842][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:11:20.401108][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 21:11:22.186036][i][39d0bff3f] authentication failed: zk: session has been expired by the server
+[2020/04/01 21:11:22.275795][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 21:11:23.276098][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 21:11:23.288849][i][39d0bff3f] authenticated: id=103610669116169563, timeout=4000
+[2020/04/01 21:11:23.452051][i][39d0bff3f] re-submitting `0` credentials after reconnect
+[2020/04/01 21:11:25.621486][i][0a282bcf3] 开始启动[API]服务...
+[2020/04/01 21:11:30.612466][e][0a282bcf3] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+[2020/04/01 21:12:23.42491][i][39d0bff3f] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:53830->192.168.0.101:2181: i/o timeout
+[2020/04/01 21:12:23.42494][i][39d0bff3f] send loop terminated: err=write tcp 192.168.5.62:53830->192.168.0.101:2181: write: broken pipe
+[2020/04/01 21:12:33.23065][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 21:12:34.361725][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:12:36.989593][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:12:39.24303][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 21:12:42.167960][i][39d0bff3f] authentication failed: zk: session has been expired by the server
+[2020/04/01 21:12:43.208472][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 21:12:43.223024][i][39d0bff3f] authenticated: id=103610669116169571, timeout=4000
+[2020/04/01 21:12:43.223032][i][39d0bff3f] re-submitting `0` credentials after reconnect
+[2020/04/01 21:12:43.778885][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 21:12:52.185514][i][653f6e3bb] 开始启动[API]服务...
+[2020/04/01 21:13:44.451999][i][39d0bff3f] send loop terminated: err=write tcp 192.168.5.62:53876->192.168.0.101:2181: i/o timeout
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/04/01 21:25:41.872184][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:34:45.747411][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:39:05.192632][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:44:32.355716][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:47:12.957362][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 21:53:53.920090][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:02:04.451307][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:14:59.997452][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:19:49.690399][e][653f6e3bb] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+[2020/04/01 22:23:58.848834][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:27:27.931592][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:31:31.889554][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:32:34.579704][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:36:16.717074][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:39:52.7488][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:44:28.23706][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:45:55.824131][i][39d0bff3f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/04/01 22:45:56.824432][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 22:45:57.662171][i][39d0bff3f] authentication failed: zk: session has been expired by the server
+[2020/04/01 22:45:57.662189][w][39d0bff3f] zk已断开连接:[192.168.0.101]
+[2020/04/01 22:45:58.662617][i][39d0bff3f] Connected to 192.168.0.101:2181
+[2020/04/01 22:45:58.675993][i][39d0bff3f] authenticated: id=103610669116169574, timeout=4000
+[2020/04/01 22:45:58.675998][i][39d0bff3f] re-submitting `0` credentials after reconnect
+[2020/04/01 22:46:00.783895][i][eacb7793f] 开始启动[API]服务...
+[2020/04/01 22:46:01.104491][e][eacb7793f] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------

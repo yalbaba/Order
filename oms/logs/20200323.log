@@ -1,0 +1,64 @@
+
+--------------------begin------------------------
+
+[2020/03/23 22:16:49.767301][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:16:51.767758][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:16:53.768132][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:16:55.768518][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:16:57.768829][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:16:59.769048][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:01.769308][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:03.769580][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:05.206504][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/23 22:17:07.206891][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:08.918373][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/23 22:17:10.918872][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:12.919298][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:14.919670][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:16.214271][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/23 22:17:18.214503][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:20.214913][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:22.215379][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:23.926411][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/23 22:17:25.926938][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:27.927520][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:29.928288][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:31.574473][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/23 22:17:33.574934][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:34.934491][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/23 22:17:36.935167][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:38.935865][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:40.936636][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:42.937341][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:44.938264][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:46.939087][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:48.939955][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:50.838662][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/23 22:17:52.839578][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:54.840433][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:56.841230][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:17:58.842040][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:00.842883][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:02.843533][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:04.844386][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:06.845230][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:08.845966][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:09.974307][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/23 22:18:11.974899][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:13.975597][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:15.976443][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:17.977300][i][e3ab45211] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/23 22:18:18.990275][i][e3ab45211] Connected to 192.168.0.101:2181
+[2020/03/23 22:18:19.12165][i][e3ab45211] authenticated: id=103610669116167341, timeout=4000
+[2020/03/23 22:18:19.12219][i][e3ab45211] re-submitting `0` credentials after reconnect
+[2020/03/23 22:18:19.62283][i][e3ab45211] 初始化 /oms_t_debug/omsadmin/api/5.62
+[2020/03/23 22:18:19.192237][i][d8efc66c4] 开始启动[API]服务...
+[2020/03/23 22:18:19.192583][e][d8efc66c4] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------

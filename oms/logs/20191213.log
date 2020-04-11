@@ -1,0 +1,44 @@
+
+--------------------begin------------------------
+
+[2019/12/13 09:22:28.935200][i][f1fc28b1c] recv loop terminated: err=failed to read from connection: read tcp 192.168.5.62:56092->192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:28.935215][i][f1fc28b1c] send loop terminated: err=<nil>
+[2019/12/13 09:22:28.935364][w][f1fc28b1c] zk已断开连接:[192.168.0.101]
+[2019/12/13 09:22:30.935758][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:32.936081][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:34.936431][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:36.936805][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:38.937215][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:40.937626][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:42.938074][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:44.938417][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:46.938841][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:48.939237][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:50.939627][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:52.939985][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:54.940423][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:56.940785][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:22:58.941264][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:23:00.941759][i][f1fc28b1c] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2019/12/13 09:23:01.942126][i][f1fc28b1c] Connected to 192.168.0.101:2181
+[2019/12/13 09:23:01.944111][i][f1fc28b1c] authentication failed: zk: session has been expired by the server
+[2019/12/13 09:23:01.944130][w][f1fc28b1c] zk已断开连接:[192.168.0.101]
+[2019/12/13 09:23:02.944535][i][f1fc28b1c] Connected to 192.168.0.101:2181
+[2019/12/13 09:23:02.960914][i][f1fc28b1c] authenticated: id=103116747297984786, timeout=4000
+[2019/12/13 09:23:02.960921][i][f1fc28b1c] re-submitting `0` credentials after reconnect
+[2019/12/13 09:23:03.950037][i][97a8fd1b5] [配置发生变化，准备更新]
+[2019/12/13 09:23:03.950046][i][97a8fd1b5] [启用 静态文件]
+[2019/12/13 09:23:03.950058][i][97a8fd1b5] [启用 header设置]
+[2019/12/13 09:23:03.950060][d][97a8fd1b5] [未启用 响应格式设置]
+[2019/12/13 09:23:03.950062][d][97a8fd1b5] [未启用 熔断设置]
+[2019/12/13 09:23:03.950134][i][97a8fd1b5] [启用 jwt设置]
+[2019/12/13 09:23:03.950144][d][97a8fd1b5] [未启用 固定密钥认证]
+[2019/12/13 09:23:03.950151][d][97a8fd1b5] [未启用 远程服务认证]
+[2019/12/13 09:23:03.950153][d][97a8fd1b5] [未启用 ajax请求限制设置]
+[2019/12/13 09:23:03.950156][d][97a8fd1b5] [未启用 metric设置]
+[2019/12/13 09:23:03.950158][d][97a8fd1b5] [未启用 host设置]
+[2019/12/13 09:23:03.950162][i][97a8fd1b5] 配置更新成功
+[2019/12/13 09:23:05.330306][i][97a8fd1b5] 节点(/oms_t_debug/omsadmin/api/5.62/servers/192.168.5.62:9091)已恢复
+[2019/12/13 09:23:05.343638][i][97a8fd1b5] 节点(/oms_t_debug/services/api/omsadmin/providers/192.168.5.62:9091_0000000216)已恢复
+
+---------------------end-------------------------

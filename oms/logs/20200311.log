@@ -1,0 +1,29 @@
+
+--------------------begin------------------------
+
+[2020/03/11 17:50:47.565433][i][68c66b8c6] oms-api 正在退出...
+[2020/03/11 17:50:47.568594][i][68c66b8c6] oms-api 已安全退出
+
+---------------------end-------------------------
+
+--------------------begin------------------------
+
+[2020/03/11 17:51:55.572386][i][e1438693f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/11 17:51:57.572704][i][e1438693f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/11 17:51:58.644389][i][e1438693f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/11 17:52:00.644677][i][e1438693f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: i/o timeout
+[2020/03/11 17:52:01.716236][i][e1438693f] Failed to connect to 192.168.0.101:2181: dial tcp 192.168.0.101:2181: connect: no route to host
+[2020/03/11 17:52:02.891324][i][e1438693f] Connected to 192.168.0.101:2181
+[2020/03/11 17:52:02.912004][i][e1438693f] authenticated: id=103610669116164290, timeout=4000
+[2020/03/11 17:52:02.912016][i][e1438693f] re-submitting `0` credentials after reconnect
+[2020/03/11 17:52:02.916916][i][e1438693f] 初始化 /oms_t_debug/omsadmin/api/5.62
+[2020/03/11 17:52:02.975374][i][d174003e9] 开始启动[API]服务...
+[2020/03/11 17:52:02.975482][e][d174003e9] 启动失败 创建db失败:{
+  "provider": "mysql",
+  "connString": "oms_t:123456@tcp(192.168.0.36)/oms_t?charset=utf8",
+  "maxOpen": 20,
+  "maxIdle": 10,
+  "lifeTime": 600
+},err:sql: unknown driver "mysql" (forgotten import?)
+
+---------------------end-------------------------
